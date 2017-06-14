@@ -1,0 +1,30 @@
+; INF file for MSVBVM50
+
+[DefaultInstall]
+CopyFiles=install.files
+RegisterOCXs=RegisterFiles
+
+[DestinationDirs]
+install.files=11
+
+[install.files]
+MSVBVM50.DLL=MSVBVM50.DLL
+vb5chs.dll = vb5chs.dll
+
+[RegisterFiles]
+%11%\MSVBVM50.DLL
+
+[MSVBVM50.DLL]
+file-win32-x86=thiscab
+FileVersion=5,0,43,19
+
+[version]
+signature="$CHICAGO$"
+AdvancedINF=2.0
+
+[SourceDisksNames]
+1=%DiskName%,MSVBVM50.CAB,0
+
+[SourceDisksFiles]
+msvbvm50.dll = 1
+vb5chs.dll = 1
