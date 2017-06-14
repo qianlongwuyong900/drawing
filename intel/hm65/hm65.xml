@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+    <ss:Styles>
+        <ss:Style ss:ID="1">
+            <ss:Font ss:Bold="1" />
+        </ss:Style>
+        <ss:Style ss:ID="s21">
+            <NumberFormat ss:Format="dd\-mmm\-yyyy" />
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+            </Borders>
+        </ss:Style>
+        <ss:Style ss:ID="s22">
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+            </Borders>
+        </ss:Style>
+        <ss:Style ss:ID="s23">
+            <ss:Font ss:Bold="1" ss:Underline="Single" />
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+            </Borders>
+        </ss:Style>
+        <ss:Style ss:ID="s22link" ss:Parent="s22">
+            <ss:Font ss:Color="Blue" />
+        </ss:Style>
+    </ss:Styles>
+    <ss:Worksheet ss:Name="Sheet1">
+        <ss:Table>
+                <Column ss:autofitwidth="1" />
+                <Column ss:autofitwidth="1" />
+
+            <ss:Row ss:StyleID="1">
+                <ss:Cell ss:MergeAcross="2">
+                    <ss:Data ss:Type="String">
+                        ARK | 比较英特尔&#174; 产品
+                    </ss:Data>
+                </ss:Cell>
+            </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="2">
+                    <ss:Data ss:Type="String">
+                    <text>2017/2/26 23:45:14</text>
+                </ss:Data>
+            </ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell></ss:Cell>
+                <ss:Cell ss:StyleID="s22link" ss:HRef="http://ark.intel.com/zh-cn/products/52808/Mobile-Intel-HM65-Express-Chipset"><ss:Data ss:Type="String">Mobile Intel&#174; HM65 Express Chipset</ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell ss:StyleID="s22"><ss:Data ss:Type="String">代号</ss:Data></ss:Cell>
+                <ss:Cell ss:StyleID="s22">
+                    <ss:Data ss:Type="String">
+Cougar Point                    </ss:Data>
+                </ss:Cell>
+        </ss:Row>
+
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">基本要素</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">状态</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">Launched</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">发行日期</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">Q1&#39;11</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">TDP</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">3.9 W</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">建议的客户价格</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">$40.00</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">补充信息</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">提供嵌入式方案</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">是</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">无冲突</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">是</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">数据表</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:HRef="http://www.intel.com/content/www/us/en/chipsets/6-chipset-c200-chipset-datasheet.html" ss:StyleID="s22link">
+                                        <ss:Data ss:Type="String">Link</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">显卡规格</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">图形输出</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">LVDS, CRT, Display Port, DVI, HDMI, SVDO</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">显示支持数量 ‡</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">2</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">扩展选项</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">PCI 支持</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">否</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">PCI Express 修订版</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">2.0</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">PCI Express 配置 ‡</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">x1, x2, x4</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">PCI Express 通道数的最大值</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">8</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">I/O 规格</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">USB 端口数</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">12</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">SATA 端口总数</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">6</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">封装规格</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">封装大小</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">25mm x 25mm</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">低卤素选项可用</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">参见 MDDS</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">先进技术</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">英特尔&#174; 定向 I/O 虚拟化技术 ‡</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">否</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">英特尔&#174; 博锐技术 ‡</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">否</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">英特尔&#174; ME Firmware（英特尔&#174; 管理引擎固件）版本</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">否</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">英特尔&#174; 高清晰度音频技术</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">是</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">英特尔&#174; 快速存储技术</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">是</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+            <ss:Row>
+                <ss:Cell ss:MergeAcross="1" ss:StyleID="s23">
+                    <ss:Data ss:Type="String">英特尔&#174; 平台保护技术</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">可信执行技术 ‡</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">否</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+                    <ss:Row>
+                        <ss:Cell ss:StyleID="s22">
+                            <ss:Data ss:Type="String">防盗技术</ss:Data>
+                        </ss:Cell>
+                                    <ss:Cell ss:StyleID="s22">
+                                        <ss:Data ss:Type="String">是</ss:Data>
+                                    </ss:Cell>
+                    </ss:Row>
+    </ss:Table>
+
+    </ss:Worksheet>
+</ss:Workbook>
