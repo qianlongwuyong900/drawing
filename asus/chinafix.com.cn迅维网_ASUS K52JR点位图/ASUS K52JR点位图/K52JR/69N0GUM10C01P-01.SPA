@@ -1,0 +1,3080 @@
+
+Group 1    
+1    7    63   95   105  106  109  111  112  113  123  124  125  127  128  
+129  131  535  536  653  670  677  678  844  847  867  872  933  1033 1145 
+1176 1183 1270 1271 1272 1273 1278 1279 1280 1285 1320 1321 1323 1324 1325 
+1326 1327 1328 1329 1396 1399 1412 1413 1449 1450 1455 1463 1507 1555 
+1    7    Not found connect R/L/J component
+1    63   Not found connect R/L/J component
+1    95   Not found connect R/L/J component
+1    105  Not found connect R/L/J component
+1    106  Not found connect R/L/J component
+1    109  Not found connect R/L/J component
+1    111  Not found connect R/L/J component
+1    112  Not found connect R/L/J component
+1    113  Not found connect R/L/J component
+1    123  Not found connect R/L/J component
+1    124  Not found connect R/L/J component
+1    125  Not found connect R/L/J component
+1    127  Not found connect R/L/J component
+1    128  Not found connect R/L/J component
+1    129  Not found connect R/L/J component
+1    131  Not found connect R/L/J component
+1    535  FIND Step 642 (J) R0506   1.0   
+1    536  FIND Step 641 (J) R0505   1.0   
+1    653  Not found connect R/L/J component
+1    670  Not found connect R/L/J component
+1    677  Not found connect R/L/J component
+1    678  Not found connect R/L/J component
+1    844  FIND Step 777 (R) R8624  10.0   
+1    847  Not found connect R/L/J component
+1    867  Not found connect R/L/J component
+1    872  FIND Step2400 (R) Q8502_3_6(N)  20.0   
+1    933  FIND Step 503 (J) JP3002_1_2   1.0   
+1    1033 Not found connect R/L/J component
+1    1145 Not found connect R/L/J component
+1    1176 Not found connect R/L/J component
+1    1183 FIND Step 680 (J) R2702   1.0   
+1    1270 Not found connect R/L/J component
+1    1271 Not found connect R/L/J component
+1    1272 Not found connect R/L/J component
+1    1273 Not found connect R/L/J component
+1    1278 Not found connect R/L/J component
+1    1279 Not found connect R/L/J component
+1    1280 Not found connect R/L/J component
+1    1285 Not found connect R/L/J component
+1    1320 Not found connect R/L/J component
+1    1321 FIND Step 663 (J) R2303   1.0   
+1    1323 Not found connect R/L/J component
+1    1324 Not found connect R/L/J component
+1    1325 Not found connect R/L/J component
+1    1326 Not found connect R/L/J component
+1    1327 Not found connect R/L/J component
+1    1328 Not found connect R/L/J component
+1    1329 Not found connect R/L/J component
+1    1396 FIND Step 786 (R) R0304  20.0   
+1    1399 FIND Step 785 (R) R0303  20.0   
+1    1412 FIND Step 640 (J) R0502   1.0   
+1    1413 FIND Step 639 (J) R0501   1.0   
+1    1449 Not found connect R/L/J component
+1    1450 Not found connect R/L/J component
+1    1455 Not found connect R/L/J component
+1    1463 FIND Step 510 (J) JP3701_1_2   1.0   
+1    1507 Not found connect R/L/J component
+1    1555 Not found connect R/L/J component
+7    63   Not found connect R/L/J component
+7    95   Not found connect R/L/J component
+7    105  Not found connect R/L/J component
+7    106  Not found connect R/L/J component
+7    109  Not found connect R/L/J component
+7    111  Not found connect R/L/J component
+7    112  Not found connect R/L/J component
+7    113  Not found connect R/L/J component
+7    123  Not found connect R/L/J component
+7    124  Not found connect R/L/J component
+7    125  Not found connect R/L/J component
+7    127  Not found connect R/L/J component
+7    128  Not found connect R/L/J component
+7    129  Not found connect R/L/J component
+7    131  Not found connect R/L/J component
+7    535  Not found connect R/L/J component
+7    536  Not found connect R/L/J component
+7    653  FIND Step 577 (J) L7614   1.0   
+7    670  Not found connect R/L/J component
+7    677  Not found connect R/L/J component
+7    678  Not found connect R/L/J component
+7    844  Not found connect R/L/J component
+7    847  Not found connect R/L/J component
+7    867  Not found connect R/L/J component
+7    872  Not found connect R/L/J component
+7    933  Not found connect R/L/J component
+7    1033 Not found connect R/L/J component
+7    1145 Not found connect R/L/J component
+7    1176 Not found connect R/L/J component
+7    1183 Not found connect R/L/J component
+7    1270 Not found connect R/L/J component
+7    1271 Not found connect R/L/J component
+7    1272 Not found connect R/L/J component
+7    1273 Not found connect R/L/J component
+7    1278 Not found connect R/L/J component
+7    1279 Not found connect R/L/J component
+7    1280 Not found connect R/L/J component
+7    1285 Not found connect R/L/J component
+7    1320 Not found connect R/L/J component
+7    1321 Not found connect R/L/J component
+7    1323 Not found connect R/L/J component
+7    1324 Not found connect R/L/J component
+7    1325 Not found connect R/L/J component
+7    1326 Not found connect R/L/J component
+7    1327 Not found connect R/L/J component
+7    1328 Not found connect R/L/J component
+7    1329 Not found connect R/L/J component
+7    1396 Not found connect R/L/J component
+7    1399 Not found connect R/L/J component
+7    1412 Not found connect R/L/J component
+7    1413 Not found connect R/L/J component
+7    1449 FIND Step 575 (J) L7612   1.0   
+7    1450 Not found connect R/L/J component
+7    1455 Not found connect R/L/J component
+7    1463 Not found connect R/L/J component
+7    1507 FIND Step 540 (J) JP8504_1_2   1.0   
+7    1555 Not found connect R/L/J component
+63   95   Not found connect R/L/J component
+63   105  Not found connect R/L/J component
+63   106  Not found connect R/L/J component
+63   109  Not found connect R/L/J component
+63   111  Not found connect R/L/J component
+63   112  Not found connect R/L/J component
+63   113  Not found connect R/L/J component
+63   123  Not found connect R/L/J component
+63   124  Not found connect R/L/J component
+63   125  Not found connect R/L/J component
+63   127  Not found connect R/L/J component
+63   128  Not found connect R/L/J component
+63   129  Not found connect R/L/J component
+63   131  Not found connect R/L/J component
+63   535  Not found connect R/L/J component
+63   536  Not found connect R/L/J component
+63   653  Not found connect R/L/J component
+63   670  Not found connect R/L/J component
+63   677  Not found connect R/L/J component
+63   678  Not found connect R/L/J component
+63   844  Not found connect R/L/J component
+63   847  Not found connect R/L/J component
+63   867  Not found connect R/L/J component
+63   872  Not found connect R/L/J component
+63   933  Not found connect R/L/J component
+63   1033 Not found connect R/L/J component
+63   1145 Not found connect R/L/J component
+63   1176 Not found connect R/L/J component
+63   1183 Not found connect R/L/J component
+63   1270 Not found connect R/L/J component
+63   1271 Not found connect R/L/J component
+63   1272 Not found connect R/L/J component
+63   1273 Not found connect R/L/J component
+63   1278 Not found connect R/L/J component
+63   1279 Not found connect R/L/J component
+63   1280 Not found connect R/L/J component
+63   1285 Not found connect R/L/J component
+63   1320 Not found connect R/L/J component
+63   1321 Not found connect R/L/J component
+63   1323 Not found connect R/L/J component
+63   1324 Not found connect R/L/J component
+63   1325 Not found connect R/L/J component
+63   1326 Not found connect R/L/J component
+63   1327 Not found connect R/L/J component
+63   1328 Not found connect R/L/J component
+63   1329 Not found connect R/L/J component
+63   1396 Not found connect R/L/J component
+63   1399 Not found connect R/L/J component
+63   1412 Not found connect R/L/J component
+63   1413 Not found connect R/L/J component
+63   1449 Not found connect R/L/J component
+63   1450 Not found connect R/L/J component
+63   1455 Not found connect R/L/J component
+63   1463 Not found connect R/L/J component
+63   1507 Not found connect R/L/J component
+63   1555 Not found connect R/L/J component
+95   105  Not found connect R/L/J component
+95   106  Not found connect R/L/J component
+95   109  Not found connect R/L/J component
+95   111  Not found connect R/L/J component
+95   112  Not found connect R/L/J component
+95   113  Not found connect R/L/J component
+95   123  Not found connect R/L/J component
+95   124  Not found connect R/L/J component
+95   125  Not found connect R/L/J component
+95   127  Not found connect R/L/J component
+95   128  Not found connect R/L/J component
+95   129  Not found connect R/L/J component
+95   131  Not found connect R/L/J component
+95   535  Not found connect R/L/J component
+95   536  Not found connect R/L/J component
+95   653  Not found connect R/L/J component
+95   670  Not found connect R/L/J component
+95   677  Not found connect R/L/J component
+95   678  Not found connect R/L/J component
+95   844  Not found connect R/L/J component
+95   847  Not found connect R/L/J component
+95   867  Not found connect R/L/J component
+95   872  Not found connect R/L/J component
+95   933  Not found connect R/L/J component
+95   1033 Not found connect R/L/J component
+95   1145 Not found connect R/L/J component
+95   1176 Not found connect R/L/J component
+95   1183 Not found connect R/L/J component
+95   1270 Not found connect R/L/J component
+95   1271 Not found connect R/L/J component
+95   1272 Not found connect R/L/J component
+95   1273 Not found connect R/L/J component
+95   1278 Not found connect R/L/J component
+95   1279 Not found connect R/L/J component
+95   1280 Not found connect R/L/J component
+95   1285 Not found connect R/L/J component
+95   1320 Not found connect R/L/J component
+95   1321 Not found connect R/L/J component
+95   1323 Not found connect R/L/J component
+95   1324 Not found connect R/L/J component
+95   1325 Not found connect R/L/J component
+95   1326 Not found connect R/L/J component
+95   1327 Not found connect R/L/J component
+95   1328 Not found connect R/L/J component
+95   1329 Not found connect R/L/J component
+95   1396 Not found connect R/L/J component
+95   1399 Not found connect R/L/J component
+95   1412 Not found connect R/L/J component
+95   1413 Not found connect R/L/J component
+95   1449 Not found connect R/L/J component
+95   1450 Not found connect R/L/J component
+95   1455 Not found connect R/L/J component
+95   1463 Not found connect R/L/J component
+95   1507 Not found connect R/L/J component
+95   1555 Not found connect R/L/J component
+105  106  Not found connect R/L/J component
+105  109  Not found connect R/L/J component
+105  111  Not found connect R/L/J component
+105  112  Not found connect R/L/J component
+105  113  Not found connect R/L/J component
+105  123  Not found connect R/L/J component
+105  124  Not found connect R/L/J component
+105  125  Not found connect R/L/J component
+105  127  Not found connect R/L/J component
+105  128  Not found connect R/L/J component
+105  129  Not found connect R/L/J component
+105  131  Not found connect R/L/J component
+105  535  Not found connect R/L/J component
+105  536  Not found connect R/L/J component
+105  653  Not found connect R/L/J component
+105  670  Not found connect R/L/J component
+105  677  Not found connect R/L/J component
+105  678  Not found connect R/L/J component
+105  844  Not found connect R/L/J component
+105  847  Not found connect R/L/J component
+105  867  Not found connect R/L/J component
+105  872  Not found connect R/L/J component
+105  933  Not found connect R/L/J component
+105  1033 Not found connect R/L/J component
+105  1145 Not found connect R/L/J component
+105  1176 Not found connect R/L/J component
+105  1183 Not found connect R/L/J component
+105  1270 Not found connect R/L/J component
+105  1271 Not found connect R/L/J component
+105  1272 Not found connect R/L/J component
+105  1273 Not found connect R/L/J component
+105  1278 Not found connect R/L/J component
+105  1279 Not found connect R/L/J component
+105  1280 Not found connect R/L/J component
+105  1285 Not found connect R/L/J component
+105  1320 Not found connect R/L/J component
+105  1321 Not found connect R/L/J component
+105  1323 Not found connect R/L/J component
+105  1324 Not found connect R/L/J component
+105  1325 Not found connect R/L/J component
+105  1326 Not found connect R/L/J component
+105  1327 Not found connect R/L/J component
+105  1328 Not found connect R/L/J component
+105  1329 Not found connect R/L/J component
+105  1396 Not found connect R/L/J component
+105  1399 Not found connect R/L/J component
+105  1412 Not found connect R/L/J component
+105  1413 Not found connect R/L/J component
+105  1449 Not found connect R/L/J component
+105  1450 Not found connect R/L/J component
+105  1455 Not found connect R/L/J component
+105  1463 Not found connect R/L/J component
+105  1507 Not found connect R/L/J component
+105  1555 Not found connect R/L/J component
+106  109  Not found connect R/L/J component
+106  111  Not found connect R/L/J component
+106  112  Not found connect R/L/J component
+106  113  Not found connect R/L/J component
+106  123  Not found connect R/L/J component
+106  124  Not found connect R/L/J component
+106  125  Not found connect R/L/J component
+106  127  Not found connect R/L/J component
+106  128  Not found connect R/L/J component
+106  129  Not found connect R/L/J component
+106  131  Not found connect R/L/J component
+106  535  Not found connect R/L/J component
+106  536  Not found connect R/L/J component
+106  653  Not found connect R/L/J component
+106  670  Not found connect R/L/J component
+106  677  Not found connect R/L/J component
+106  678  Not found connect R/L/J component
+106  844  Not found connect R/L/J component
+106  847  Not found connect R/L/J component
+106  867  Not found connect R/L/J component
+106  872  Not found connect R/L/J component
+106  933  Not found connect R/L/J component
+106  1033 Not found connect R/L/J component
+106  1145 Not found connect R/L/J component
+106  1176 Not found connect R/L/J component
+106  1183 Not found connect R/L/J component
+106  1270 Not found connect R/L/J component
+106  1271 Not found connect R/L/J component
+106  1272 Not found connect R/L/J component
+106  1273 Not found connect R/L/J component
+106  1278 Not found connect R/L/J component
+106  1279 Not found connect R/L/J component
+106  1280 Not found connect R/L/J component
+106  1285 Not found connect R/L/J component
+106  1320 Not found connect R/L/J component
+106  1321 Not found connect R/L/J component
+106  1323 Not found connect R/L/J component
+106  1324 Not found connect R/L/J component
+106  1325 Not found connect R/L/J component
+106  1326 Not found connect R/L/J component
+106  1327 Not found connect R/L/J component
+106  1328 Not found connect R/L/J component
+106  1329 Not found connect R/L/J component
+106  1396 Not found connect R/L/J component
+106  1399 Not found connect R/L/J component
+106  1412 Not found connect R/L/J component
+106  1413 Not found connect R/L/J component
+106  1449 Not found connect R/L/J component
+106  1450 Not found connect R/L/J component
+106  1455 Not found connect R/L/J component
+106  1463 Not found connect R/L/J component
+106  1507 Not found connect R/L/J component
+106  1555 Not found connect R/L/J component
+109  111  Not found connect R/L/J component
+109  112  Not found connect R/L/J component
+109  113  Not found connect R/L/J component
+109  123  Not found connect R/L/J component
+109  124  Not found connect R/L/J component
+109  125  Not found connect R/L/J component
+109  127  Not found connect R/L/J component
+109  128  Not found connect R/L/J component
+109  129  Not found connect R/L/J component
+109  131  Not found connect R/L/J component
+109  535  Not found connect R/L/J component
+109  536  Not found connect R/L/J component
+109  653  Not found connect R/L/J component
+109  670  Not found connect R/L/J component
+109  677  Not found connect R/L/J component
+109  678  Not found connect R/L/J component
+109  844  Not found connect R/L/J component
+109  847  Not found connect R/L/J component
+109  867  Not found connect R/L/J component
+109  872  Not found connect R/L/J component
+109  933  Not found connect R/L/J component
+109  1033 Not found connect R/L/J component
+109  1145 Not found connect R/L/J component
+109  1176 Not found connect R/L/J component
+109  1183 Not found connect R/L/J component
+109  1270 Not found connect R/L/J component
+109  1271 Not found connect R/L/J component
+109  1272 Not found connect R/L/J component
+109  1273 Not found connect R/L/J component
+109  1278 Not found connect R/L/J component
+109  1279 Not found connect R/L/J component
+109  1280 Not found connect R/L/J component
+109  1285 Not found connect R/L/J component
+109  1320 Not found connect R/L/J component
+109  1321 Not found connect R/L/J component
+109  1323 Not found connect R/L/J component
+109  1324 Not found connect R/L/J component
+109  1325 Not found connect R/L/J component
+109  1326 Not found connect R/L/J component
+109  1327 Not found connect R/L/J component
+109  1328 Not found connect R/L/J component
+109  1329 Not found connect R/L/J component
+109  1396 Not found connect R/L/J component
+109  1399 Not found connect R/L/J component
+109  1412 Not found connect R/L/J component
+109  1413 Not found connect R/L/J component
+109  1449 Not found connect R/L/J component
+109  1450 Not found connect R/L/J component
+109  1455 Not found connect R/L/J component
+109  1463 Not found connect R/L/J component
+109  1507 Not found connect R/L/J component
+109  1555 Not found connect R/L/J component
+111  112  Not found connect R/L/J component
+111  113  Not found connect R/L/J component
+111  123  Not found connect R/L/J component
+111  124  Not found connect R/L/J component
+111  125  Not found connect R/L/J component
+111  127  Not found connect R/L/J component
+111  128  Not found connect R/L/J component
+111  129  Not found connect R/L/J component
+111  131  Not found connect R/L/J component
+111  535  Not found connect R/L/J component
+111  536  Not found connect R/L/J component
+111  653  Not found connect R/L/J component
+111  670  Not found connect R/L/J component
+111  677  Not found connect R/L/J component
+111  678  Not found connect R/L/J component
+111  844  Not found connect R/L/J component
+111  847  Not found connect R/L/J component
+111  867  Not found connect R/L/J component
+111  872  Not found connect R/L/J component
+111  933  Not found connect R/L/J component
+111  1033 Not found connect R/L/J component
+111  1145 Not found connect R/L/J component
+111  1176 Not found connect R/L/J component
+111  1183 Not found connect R/L/J component
+111  1270 Not found connect R/L/J component
+111  1271 Not found connect R/L/J component
+111  1272 Not found connect R/L/J component
+111  1273 Not found connect R/L/J component
+111  1278 Not found connect R/L/J component
+111  1279 Not found connect R/L/J component
+111  1280 Not found connect R/L/J component
+111  1285 Not found connect R/L/J component
+111  1320 Not found connect R/L/J component
+111  1321 Not found connect R/L/J component
+111  1323 Not found connect R/L/J component
+111  1324 Not found connect R/L/J component
+111  1325 Not found connect R/L/J component
+111  1326 Not found connect R/L/J component
+111  1327 Not found connect R/L/J component
+111  1328 Not found connect R/L/J component
+111  1329 Not found connect R/L/J component
+111  1396 Not found connect R/L/J component
+111  1399 Not found connect R/L/J component
+111  1412 Not found connect R/L/J component
+111  1413 Not found connect R/L/J component
+111  1449 Not found connect R/L/J component
+111  1450 Not found connect R/L/J component
+111  1455 Not found connect R/L/J component
+111  1463 Not found connect R/L/J component
+111  1507 Not found connect R/L/J component
+111  1555 Not found connect R/L/J component
+112  113  Not found connect R/L/J component
+112  123  Not found connect R/L/J component
+112  124  Not found connect R/L/J component
+112  125  Not found connect R/L/J component
+112  127  Not found connect R/L/J component
+112  128  Not found connect R/L/J component
+112  129  Not found connect R/L/J component
+112  131  Not found connect R/L/J component
+112  535  Not found connect R/L/J component
+112  536  Not found connect R/L/J component
+112  653  Not found connect R/L/J component
+112  670  Not found connect R/L/J component
+112  677  Not found connect R/L/J component
+112  678  Not found connect R/L/J component
+112  844  Not found connect R/L/J component
+112  847  Not found connect R/L/J component
+112  867  Not found connect R/L/J component
+112  872  Not found connect R/L/J component
+112  933  Not found connect R/L/J component
+112  1033 Not found connect R/L/J component
+112  1145 Not found connect R/L/J component
+112  1176 Not found connect R/L/J component
+112  1183 Not found connect R/L/J component
+112  1270 Not found connect R/L/J component
+112  1271 Not found connect R/L/J component
+112  1272 Not found connect R/L/J component
+112  1273 Not found connect R/L/J component
+112  1278 Not found connect R/L/J component
+112  1279 Not found connect R/L/J component
+112  1280 Not found connect R/L/J component
+112  1285 Not found connect R/L/J component
+112  1320 Not found connect R/L/J component
+112  1321 Not found connect R/L/J component
+112  1323 Not found connect R/L/J component
+112  1324 Not found connect R/L/J component
+112  1325 Not found connect R/L/J component
+112  1326 Not found connect R/L/J component
+112  1327 Not found connect R/L/J component
+112  1328 Not found connect R/L/J component
+112  1329 Not found connect R/L/J component
+112  1396 Not found connect R/L/J component
+112  1399 Not found connect R/L/J component
+112  1412 Not found connect R/L/J component
+112  1413 Not found connect R/L/J component
+112  1449 Not found connect R/L/J component
+112  1450 Not found connect R/L/J component
+112  1455 Not found connect R/L/J component
+112  1463 Not found connect R/L/J component
+112  1507 Not found connect R/L/J component
+112  1555 Not found connect R/L/J component
+113  123  Not found connect R/L/J component
+113  124  Not found connect R/L/J component
+113  125  Not found connect R/L/J component
+113  127  Not found connect R/L/J component
+113  128  Not found connect R/L/J component
+113  129  Not found connect R/L/J component
+113  131  Not found connect R/L/J component
+113  535  Not found connect R/L/J component
+113  536  Not found connect R/L/J component
+113  653  Not found connect R/L/J component
+113  670  Not found connect R/L/J component
+113  677  Not found connect R/L/J component
+113  678  Not found connect R/L/J component
+113  844  Not found connect R/L/J component
+113  847  Not found connect R/L/J component
+113  867  Not found connect R/L/J component
+113  872  Not found connect R/L/J component
+113  933  Not found connect R/L/J component
+113  1033 Not found connect R/L/J component
+113  1145 Not found connect R/L/J component
+113  1176 Not found connect R/L/J component
+113  1183 Not found connect R/L/J component
+113  1270 Not found connect R/L/J component
+113  1271 Not found connect R/L/J component
+113  1272 Not found connect R/L/J component
+113  1273 Not found connect R/L/J component
+113  1278 Not found connect R/L/J component
+113  1279 Not found connect R/L/J component
+113  1280 Not found connect R/L/J component
+113  1285 Not found connect R/L/J component
+113  1320 Not found connect R/L/J component
+113  1321 Not found connect R/L/J component
+113  1323 Not found connect R/L/J component
+113  1324 Not found connect R/L/J component
+113  1325 Not found connect R/L/J component
+113  1326 Not found connect R/L/J component
+113  1327 Not found connect R/L/J component
+113  1328 Not found connect R/L/J component
+113  1329 Not found connect R/L/J component
+113  1396 Not found connect R/L/J component
+113  1399 Not found connect R/L/J component
+113  1412 Not found connect R/L/J component
+113  1413 Not found connect R/L/J component
+113  1449 Not found connect R/L/J component
+113  1450 Not found connect R/L/J component
+113  1455 Not found connect R/L/J component
+113  1463 Not found connect R/L/J component
+113  1507 Not found connect R/L/J component
+113  1555 Not found connect R/L/J component
+123  124  Not found connect R/L/J component
+123  125  Not found connect R/L/J component
+123  127  Not found connect R/L/J component
+123  128  Not found connect R/L/J component
+123  129  Not found connect R/L/J component
+123  131  Not found connect R/L/J component
+123  535  Not found connect R/L/J component
+123  536  Not found connect R/L/J component
+123  653  Not found connect R/L/J component
+123  670  Not found connect R/L/J component
+123  677  Not found connect R/L/J component
+123  678  Not found connect R/L/J component
+123  844  Not found connect R/L/J component
+123  847  Not found connect R/L/J component
+123  867  Not found connect R/L/J component
+123  872  Not found connect R/L/J component
+123  933  Not found connect R/L/J component
+123  1033 Not found connect R/L/J component
+123  1145 Not found connect R/L/J component
+123  1176 Not found connect R/L/J component
+123  1183 Not found connect R/L/J component
+123  1270 Not found connect R/L/J component
+123  1271 Not found connect R/L/J component
+123  1272 Not found connect R/L/J component
+123  1273 Not found connect R/L/J component
+123  1278 Not found connect R/L/J component
+123  1279 Not found connect R/L/J component
+123  1280 Not found connect R/L/J component
+123  1285 Not found connect R/L/J component
+123  1320 Not found connect R/L/J component
+123  1321 Not found connect R/L/J component
+123  1323 Not found connect R/L/J component
+123  1324 Not found connect R/L/J component
+123  1325 Not found connect R/L/J component
+123  1326 Not found connect R/L/J component
+123  1327 Not found connect R/L/J component
+123  1328 Not found connect R/L/J component
+123  1329 Not found connect R/L/J component
+123  1396 Not found connect R/L/J component
+123  1399 Not found connect R/L/J component
+123  1412 Not found connect R/L/J component
+123  1413 Not found connect R/L/J component
+123  1449 Not found connect R/L/J component
+123  1450 Not found connect R/L/J component
+123  1455 Not found connect R/L/J component
+123  1463 Not found connect R/L/J component
+123  1507 Not found connect R/L/J component
+123  1555 Not found connect R/L/J component
+124  125  Not found connect R/L/J component
+124  127  Not found connect R/L/J component
+124  128  Not found connect R/L/J component
+124  129  Not found connect R/L/J component
+124  131  Not found connect R/L/J component
+124  535  Not found connect R/L/J component
+124  536  Not found connect R/L/J component
+124  653  Not found connect R/L/J component
+124  670  Not found connect R/L/J component
+124  677  Not found connect R/L/J component
+124  678  Not found connect R/L/J component
+124  844  Not found connect R/L/J component
+124  847  Not found connect R/L/J component
+124  867  Not found connect R/L/J component
+124  872  Not found connect R/L/J component
+124  933  Not found connect R/L/J component
+124  1033 Not found connect R/L/J component
+124  1145 Not found connect R/L/J component
+124  1176 Not found connect R/L/J component
+124  1183 Not found connect R/L/J component
+124  1270 Not found connect R/L/J component
+124  1271 Not found connect R/L/J component
+124  1272 Not found connect R/L/J component
+124  1273 Not found connect R/L/J component
+124  1278 Not found connect R/L/J component
+124  1279 Not found connect R/L/J component
+124  1280 Not found connect R/L/J component
+124  1285 Not found connect R/L/J component
+124  1320 Not found connect R/L/J component
+124  1321 Not found connect R/L/J component
+124  1323 Not found connect R/L/J component
+124  1324 Not found connect R/L/J component
+124  1325 Not found connect R/L/J component
+124  1326 Not found connect R/L/J component
+124  1327 Not found connect R/L/J component
+124  1328 Not found connect R/L/J component
+124  1329 Not found connect R/L/J component
+124  1396 Not found connect R/L/J component
+124  1399 Not found connect R/L/J component
+124  1412 Not found connect R/L/J component
+124  1413 Not found connect R/L/J component
+124  1449 Not found connect R/L/J component
+124  1450 Not found connect R/L/J component
+124  1455 Not found connect R/L/J component
+124  1463 Not found connect R/L/J component
+124  1507 Not found connect R/L/J component
+124  1555 Not found connect R/L/J component
+125  127  Not found connect R/L/J component
+125  128  Not found connect R/L/J component
+125  129  Not found connect R/L/J component
+125  131  Not found connect R/L/J component
+125  535  Not found connect R/L/J component
+125  536  Not found connect R/L/J component
+125  653  Not found connect R/L/J component
+125  670  Not found connect R/L/J component
+125  677  Not found connect R/L/J component
+125  678  Not found connect R/L/J component
+125  844  Not found connect R/L/J component
+125  847  Not found connect R/L/J component
+125  867  Not found connect R/L/J component
+125  872  Not found connect R/L/J component
+125  933  Not found connect R/L/J component
+125  1033 Not found connect R/L/J component
+125  1145 Not found connect R/L/J component
+125  1176 Not found connect R/L/J component
+125  1183 Not found connect R/L/J component
+125  1270 Not found connect R/L/J component
+125  1271 Not found connect R/L/J component
+125  1272 Not found connect R/L/J component
+125  1273 Not found connect R/L/J component
+125  1278 Not found connect R/L/J component
+125  1279 Not found connect R/L/J component
+125  1280 Not found connect R/L/J component
+125  1285 Not found connect R/L/J component
+125  1320 Not found connect R/L/J component
+125  1321 Not found connect R/L/J component
+125  1323 Not found connect R/L/J component
+125  1324 Not found connect R/L/J component
+125  1325 Not found connect R/L/J component
+125  1326 Not found connect R/L/J component
+125  1327 Not found connect R/L/J component
+125  1328 Not found connect R/L/J component
+125  1329 Not found connect R/L/J component
+125  1396 Not found connect R/L/J component
+125  1399 Not found connect R/L/J component
+125  1412 Not found connect R/L/J component
+125  1413 Not found connect R/L/J component
+125  1449 Not found connect R/L/J component
+125  1450 Not found connect R/L/J component
+125  1455 Not found connect R/L/J component
+125  1463 Not found connect R/L/J component
+125  1507 Not found connect R/L/J component
+125  1555 Not found connect R/L/J component
+127  128  Not found connect R/L/J component
+127  129  Not found connect R/L/J component
+127  131  Not found connect R/L/J component
+127  535  Not found connect R/L/J component
+127  536  Not found connect R/L/J component
+127  653  Not found connect R/L/J component
+127  670  Not found connect R/L/J component
+127  677  Not found connect R/L/J component
+127  678  Not found connect R/L/J component
+127  844  Not found connect R/L/J component
+127  847  Not found connect R/L/J component
+127  867  Not found connect R/L/J component
+127  872  Not found connect R/L/J component
+127  933  Not found connect R/L/J component
+127  1033 Not found connect R/L/J component
+127  1145 Not found connect R/L/J component
+127  1176 Not found connect R/L/J component
+127  1183 Not found connect R/L/J component
+127  1270 Not found connect R/L/J component
+127  1271 Not found connect R/L/J component
+127  1272 Not found connect R/L/J component
+127  1273 Not found connect R/L/J component
+127  1278 Not found connect R/L/J component
+127  1279 Not found connect R/L/J component
+127  1280 Not found connect R/L/J component
+127  1285 Not found connect R/L/J component
+127  1320 Not found connect R/L/J component
+127  1321 Not found connect R/L/J component
+127  1323 Not found connect R/L/J component
+127  1324 Not found connect R/L/J component
+127  1325 Not found connect R/L/J component
+127  1326 Not found connect R/L/J component
+127  1327 Not found connect R/L/J component
+127  1328 Not found connect R/L/J component
+127  1329 Not found connect R/L/J component
+127  1396 Not found connect R/L/J component
+127  1399 Not found connect R/L/J component
+127  1412 Not found connect R/L/J component
+127  1413 Not found connect R/L/J component
+127  1449 Not found connect R/L/J component
+127  1450 Not found connect R/L/J component
+127  1455 Not found connect R/L/J component
+127  1463 Not found connect R/L/J component
+127  1507 Not found connect R/L/J component
+127  1555 Not found connect R/L/J component
+128  129  Not found connect R/L/J component
+128  131  Not found connect R/L/J component
+128  535  Not found connect R/L/J component
+128  536  Not found connect R/L/J component
+128  653  Not found connect R/L/J component
+128  670  Not found connect R/L/J component
+128  677  Not found connect R/L/J component
+128  678  Not found connect R/L/J component
+128  844  Not found connect R/L/J component
+128  847  Not found connect R/L/J component
+128  867  Not found connect R/L/J component
+128  872  Not found connect R/L/J component
+128  933  Not found connect R/L/J component
+128  1033 Not found connect R/L/J component
+128  1145 Not found connect R/L/J component
+128  1176 Not found connect R/L/J component
+128  1183 Not found connect R/L/J component
+128  1270 Not found connect R/L/J component
+128  1271 Not found connect R/L/J component
+128  1272 Not found connect R/L/J component
+128  1273 Not found connect R/L/J component
+128  1278 Not found connect R/L/J component
+128  1279 Not found connect R/L/J component
+128  1280 Not found connect R/L/J component
+128  1285 Not found connect R/L/J component
+128  1320 Not found connect R/L/J component
+128  1321 Not found connect R/L/J component
+128  1323 Not found connect R/L/J component
+128  1324 Not found connect R/L/J component
+128  1325 Not found connect R/L/J component
+128  1326 Not found connect R/L/J component
+128  1327 Not found connect R/L/J component
+128  1328 Not found connect R/L/J component
+128  1329 Not found connect R/L/J component
+128  1396 Not found connect R/L/J component
+128  1399 Not found connect R/L/J component
+128  1412 Not found connect R/L/J component
+128  1413 Not found connect R/L/J component
+128  1449 Not found connect R/L/J component
+128  1450 Not found connect R/L/J component
+128  1455 Not found connect R/L/J component
+128  1463 Not found connect R/L/J component
+128  1507 Not found connect R/L/J component
+128  1555 Not found connect R/L/J component
+129  131  Not found connect R/L/J component
+129  535  Not found connect R/L/J component
+129  536  Not found connect R/L/J component
+129  653  Not found connect R/L/J component
+129  670  Not found connect R/L/J component
+129  677  Not found connect R/L/J component
+129  678  Not found connect R/L/J component
+129  844  Not found connect R/L/J component
+129  847  Not found connect R/L/J component
+129  867  Not found connect R/L/J component
+129  872  Not found connect R/L/J component
+129  933  Not found connect R/L/J component
+129  1033 Not found connect R/L/J component
+129  1145 Not found connect R/L/J component
+129  1176 Not found connect R/L/J component
+129  1183 Not found connect R/L/J component
+129  1270 Not found connect R/L/J component
+129  1271 Not found connect R/L/J component
+129  1272 Not found connect R/L/J component
+129  1273 Not found connect R/L/J component
+129  1278 Not found connect R/L/J component
+129  1279 Not found connect R/L/J component
+129  1280 Not found connect R/L/J component
+129  1285 Not found connect R/L/J component
+129  1320 Not found connect R/L/J component
+129  1321 Not found connect R/L/J component
+129  1323 Not found connect R/L/J component
+129  1324 Not found connect R/L/J component
+129  1325 Not found connect R/L/J component
+129  1326 Not found connect R/L/J component
+129  1327 Not found connect R/L/J component
+129  1328 Not found connect R/L/J component
+129  1329 Not found connect R/L/J component
+129  1396 Not found connect R/L/J component
+129  1399 Not found connect R/L/J component
+129  1412 Not found connect R/L/J component
+129  1413 Not found connect R/L/J component
+129  1449 Not found connect R/L/J component
+129  1450 Not found connect R/L/J component
+129  1455 Not found connect R/L/J component
+129  1463 Not found connect R/L/J component
+129  1507 Not found connect R/L/J component
+129  1555 Not found connect R/L/J component
+131  535  Not found connect R/L/J component
+131  536  Not found connect R/L/J component
+131  653  Not found connect R/L/J component
+131  670  Not found connect R/L/J component
+131  677  Not found connect R/L/J component
+131  678  Not found connect R/L/J component
+131  844  Not found connect R/L/J component
+131  847  Not found connect R/L/J component
+131  867  Not found connect R/L/J component
+131  872  Not found connect R/L/J component
+131  933  Not found connect R/L/J component
+131  1033 Not found connect R/L/J component
+131  1145 Not found connect R/L/J component
+131  1176 Not found connect R/L/J component
+131  1183 Not found connect R/L/J component
+131  1270 Not found connect R/L/J component
+131  1271 Not found connect R/L/J component
+131  1272 Not found connect R/L/J component
+131  1273 Not found connect R/L/J component
+131  1278 Not found connect R/L/J component
+131  1279 Not found connect R/L/J component
+131  1280 Not found connect R/L/J component
+131  1285 Not found connect R/L/J component
+131  1320 Not found connect R/L/J component
+131  1321 Not found connect R/L/J component
+131  1323 Not found connect R/L/J component
+131  1324 Not found connect R/L/J component
+131  1325 Not found connect R/L/J component
+131  1326 Not found connect R/L/J component
+131  1327 Not found connect R/L/J component
+131  1328 Not found connect R/L/J component
+131  1329 Not found connect R/L/J component
+131  1396 Not found connect R/L/J component
+131  1399 Not found connect R/L/J component
+131  1412 Not found connect R/L/J component
+131  1413 Not found connect R/L/J component
+131  1449 Not found connect R/L/J component
+131  1450 Not found connect R/L/J component
+131  1455 Not found connect R/L/J component
+131  1463 Not found connect R/L/J component
+131  1507 Not found connect R/L/J component
+131  1555 Not found connect R/L/J component
+535  536  Not found connect R/L/J component
+535  653  Not found connect R/L/J component
+535  670  Not found connect R/L/J component
+535  677  Not found connect R/L/J component
+535  678  Not found connect R/L/J component
+535  844  Not found connect R/L/J component
+535  847  Not found connect R/L/J component
+535  867  Not found connect R/L/J component
+535  872  Not found connect R/L/J component
+535  933  Not found connect R/L/J component
+535  1033 Not found connect R/L/J component
+535  1145 Not found connect R/L/J component
+535  1176 Not found connect R/L/J component
+535  1183 Not found connect R/L/J component
+535  1270 Not found connect R/L/J component
+535  1271 Not found connect R/L/J component
+535  1272 Not found connect R/L/J component
+535  1273 Not found connect R/L/J component
+535  1278 Not found connect R/L/J component
+535  1279 Not found connect R/L/J component
+535  1280 Not found connect R/L/J component
+535  1285 Not found connect R/L/J component
+535  1320 Not found connect R/L/J component
+535  1321 Not found connect R/L/J component
+535  1323 Not found connect R/L/J component
+535  1324 Not found connect R/L/J component
+535  1325 Not found connect R/L/J component
+535  1326 Not found connect R/L/J component
+535  1327 Not found connect R/L/J component
+535  1328 Not found connect R/L/J component
+535  1329 Not found connect R/L/J component
+535  1396 Not found connect R/L/J component
+535  1399 Not found connect R/L/J component
+535  1412 Not found connect R/L/J component
+535  1413 Not found connect R/L/J component
+535  1449 Not found connect R/L/J component
+535  1450 Not found connect R/L/J component
+535  1455 Not found connect R/L/J component
+535  1463 Not found connect R/L/J component
+535  1507 Not found connect R/L/J component
+535  1555 Not found connect R/L/J component
+536  653  Not found connect R/L/J component
+536  670  Not found connect R/L/J component
+536  677  Not found connect R/L/J component
+536  678  Not found connect R/L/J component
+536  844  Not found connect R/L/J component
+536  847  Not found connect R/L/J component
+536  867  Not found connect R/L/J component
+536  872  Not found connect R/L/J component
+536  933  Not found connect R/L/J component
+536  1033 Not found connect R/L/J component
+536  1145 Not found connect R/L/J component
+536  1176 Not found connect R/L/J component
+536  1183 Not found connect R/L/J component
+536  1270 Not found connect R/L/J component
+536  1271 Not found connect R/L/J component
+536  1272 Not found connect R/L/J component
+536  1273 Not found connect R/L/J component
+536  1278 Not found connect R/L/J component
+536  1279 Not found connect R/L/J component
+536  1280 Not found connect R/L/J component
+536  1285 Not found connect R/L/J component
+536  1320 Not found connect R/L/J component
+536  1321 Not found connect R/L/J component
+536  1323 Not found connect R/L/J component
+536  1324 Not found connect R/L/J component
+536  1325 Not found connect R/L/J component
+536  1326 Not found connect R/L/J component
+536  1327 Not found connect R/L/J component
+536  1328 Not found connect R/L/J component
+536  1329 Not found connect R/L/J component
+536  1396 Not found connect R/L/J component
+536  1399 Not found connect R/L/J component
+536  1412 Not found connect R/L/J component
+536  1413 Not found connect R/L/J component
+536  1449 Not found connect R/L/J component
+536  1450 Not found connect R/L/J component
+536  1455 Not found connect R/L/J component
+536  1463 Not found connect R/L/J component
+536  1507 Not found connect R/L/J component
+536  1555 Not found connect R/L/J component
+653  670  Not found connect R/L/J component
+653  677  Not found connect R/L/J component
+653  678  Not found connect R/L/J component
+653  844  Not found connect R/L/J component
+653  847  Not found connect R/L/J component
+653  867  Not found connect R/L/J component
+653  872  Not found connect R/L/J component
+653  933  Not found connect R/L/J component
+653  1033 Not found connect R/L/J component
+653  1145 Not found connect R/L/J component
+653  1176 Not found connect R/L/J component
+653  1183 Not found connect R/L/J component
+653  1270 Not found connect R/L/J component
+653  1271 Not found connect R/L/J component
+653  1272 Not found connect R/L/J component
+653  1273 Not found connect R/L/J component
+653  1278 Not found connect R/L/J component
+653  1279 Not found connect R/L/J component
+653  1280 Not found connect R/L/J component
+653  1285 Not found connect R/L/J component
+653  1320 Not found connect R/L/J component
+653  1321 Not found connect R/L/J component
+653  1323 Not found connect R/L/J component
+653  1324 Not found connect R/L/J component
+653  1325 Not found connect R/L/J component
+653  1326 Not found connect R/L/J component
+653  1327 Not found connect R/L/J component
+653  1328 Not found connect R/L/J component
+653  1329 Not found connect R/L/J component
+653  1396 Not found connect R/L/J component
+653  1399 Not found connect R/L/J component
+653  1412 Not found connect R/L/J component
+653  1413 Not found connect R/L/J component
+653  1449 Not found connect R/L/J component
+653  1450 Not found connect R/L/J component
+653  1455 Not found connect R/L/J component
+653  1463 Not found connect R/L/J component
+653  1507 Not found connect R/L/J component
+653  1555 Not found connect R/L/J component
+670  677  Not found connect R/L/J component
+670  678  Not found connect R/L/J component
+670  844  Not found connect R/L/J component
+670  847  Not found connect R/L/J component
+670  867  Not found connect R/L/J component
+670  872  Not found connect R/L/J component
+670  933  Not found connect R/L/J component
+670  1033 Not found connect R/L/J component
+670  1145 Not found connect R/L/J component
+670  1176 Not found connect R/L/J component
+670  1183 Not found connect R/L/J component
+670  1270 Not found connect R/L/J component
+670  1271 Not found connect R/L/J component
+670  1272 Not found connect R/L/J component
+670  1273 Not found connect R/L/J component
+670  1278 Not found connect R/L/J component
+670  1279 Not found connect R/L/J component
+670  1280 Not found connect R/L/J component
+670  1285 Not found connect R/L/J component
+670  1320 Not found connect R/L/J component
+670  1321 Not found connect R/L/J component
+670  1323 Not found connect R/L/J component
+670  1324 Not found connect R/L/J component
+670  1325 Not found connect R/L/J component
+670  1326 Not found connect R/L/J component
+670  1327 Not found connect R/L/J component
+670  1328 Not found connect R/L/J component
+670  1329 Not found connect R/L/J component
+670  1396 Not found connect R/L/J component
+670  1399 Not found connect R/L/J component
+670  1412 Not found connect R/L/J component
+670  1413 Not found connect R/L/J component
+670  1449 Not found connect R/L/J component
+670  1450 Not found connect R/L/J component
+670  1455 Not found connect R/L/J component
+670  1463 Not found connect R/L/J component
+670  1507 Not found connect R/L/J component
+670  1555 Not found connect R/L/J component
+677  678  Not found connect R/L/J component
+677  844  Not found connect R/L/J component
+677  847  Not found connect R/L/J component
+677  867  Not found connect R/L/J component
+677  872  Not found connect R/L/J component
+677  933  Not found connect R/L/J component
+677  1033 Not found connect R/L/J component
+677  1145 Not found connect R/L/J component
+677  1176 Not found connect R/L/J component
+677  1183 Not found connect R/L/J component
+677  1270 Not found connect R/L/J component
+677  1271 Not found connect R/L/J component
+677  1272 Not found connect R/L/J component
+677  1273 Not found connect R/L/J component
+677  1278 Not found connect R/L/J component
+677  1279 Not found connect R/L/J component
+677  1280 Not found connect R/L/J component
+677  1285 Not found connect R/L/J component
+677  1320 Not found connect R/L/J component
+677  1321 Not found connect R/L/J component
+677  1323 Not found connect R/L/J component
+677  1324 Not found connect R/L/J component
+677  1325 Not found connect R/L/J component
+677  1326 Not found connect R/L/J component
+677  1327 Not found connect R/L/J component
+677  1328 Not found connect R/L/J component
+677  1329 Not found connect R/L/J component
+677  1396 Not found connect R/L/J component
+677  1399 Not found connect R/L/J component
+677  1412 Not found connect R/L/J component
+677  1413 Not found connect R/L/J component
+677  1449 Not found connect R/L/J component
+677  1450 Not found connect R/L/J component
+677  1455 Not found connect R/L/J component
+677  1463 Not found connect R/L/J component
+677  1507 Not found connect R/L/J component
+677  1555 Not found connect R/L/J component
+678  844  Not found connect R/L/J component
+678  847  Not found connect R/L/J component
+678  867  Not found connect R/L/J component
+678  872  Not found connect R/L/J component
+678  933  Not found connect R/L/J component
+678  1033 Not found connect R/L/J component
+678  1145 Not found connect R/L/J component
+678  1176 Not found connect R/L/J component
+678  1183 Not found connect R/L/J component
+678  1270 Not found connect R/L/J component
+678  1271 Not found connect R/L/J component
+678  1272 Not found connect R/L/J component
+678  1273 Not found connect R/L/J component
+678  1278 Not found connect R/L/J component
+678  1279 Not found connect R/L/J component
+678  1280 Not found connect R/L/J component
+678  1285 Not found connect R/L/J component
+678  1320 Not found connect R/L/J component
+678  1321 Not found connect R/L/J component
+678  1323 Not found connect R/L/J component
+678  1324 Not found connect R/L/J component
+678  1325 Not found connect R/L/J component
+678  1326 Not found connect R/L/J component
+678  1327 Not found connect R/L/J component
+678  1328 Not found connect R/L/J component
+678  1329 Not found connect R/L/J component
+678  1396 Not found connect R/L/J component
+678  1399 Not found connect R/L/J component
+678  1412 Not found connect R/L/J component
+678  1413 Not found connect R/L/J component
+678  1449 Not found connect R/L/J component
+678  1450 Not found connect R/L/J component
+678  1455 Not found connect R/L/J component
+678  1463 Not found connect R/L/J component
+678  1507 Not found connect R/L/J component
+678  1555 Not found connect R/L/J component
+844  847  FIND Step 776 (R) R8623  10.0   
+844  867  Not found connect R/L/J component
+844  872  Not found connect R/L/J component
+844  933  Not found connect R/L/J component
+844  1033 Not found connect R/L/J component
+844  1145 Not found connect R/L/J component
+844  1176 Not found connect R/L/J component
+844  1183 Not found connect R/L/J component
+844  1270 Not found connect R/L/J component
+844  1271 Not found connect R/L/J component
+844  1272 Not found connect R/L/J component
+844  1273 Not found connect R/L/J component
+844  1278 Not found connect R/L/J component
+844  1279 Not found connect R/L/J component
+844  1280 Not found connect R/L/J component
+844  1285 Not found connect R/L/J component
+844  1320 Not found connect R/L/J component
+844  1321 Not found connect R/L/J component
+844  1323 Not found connect R/L/J component
+844  1324 Not found connect R/L/J component
+844  1325 Not found connect R/L/J component
+844  1326 Not found connect R/L/J component
+844  1327 Not found connect R/L/J component
+844  1328 Not found connect R/L/J component
+844  1329 Not found connect R/L/J component
+844  1396 Not found connect R/L/J component
+844  1399 Not found connect R/L/J component
+844  1412 Not found connect R/L/J component
+844  1413 Not found connect R/L/J component
+844  1449 Not found connect R/L/J component
+844  1450 Not found connect R/L/J component
+844  1455 Not found connect R/L/J component
+844  1463 Not found connect R/L/J component
+844  1507 Not found connect R/L/J component
+844  1555 Not found connect R/L/J component
+847  867  Not found connect R/L/J component
+847  872  Not found connect R/L/J component
+847  933  Not found connect R/L/J component
+847  1033 Not found connect R/L/J component
+847  1145 Not found connect R/L/J component
+847  1176 Not found connect R/L/J component
+847  1183 Not found connect R/L/J component
+847  1270 Not found connect R/L/J component
+847  1271 Not found connect R/L/J component
+847  1272 Not found connect R/L/J component
+847  1273 Not found connect R/L/J component
+847  1278 Not found connect R/L/J component
+847  1279 Not found connect R/L/J component
+847  1280 Not found connect R/L/J component
+847  1285 Not found connect R/L/J component
+847  1320 Not found connect R/L/J component
+847  1321 Not found connect R/L/J component
+847  1323 Not found connect R/L/J component
+847  1324 Not found connect R/L/J component
+847  1325 Not found connect R/L/J component
+847  1326 Not found connect R/L/J component
+847  1327 Not found connect R/L/J component
+847  1328 Not found connect R/L/J component
+847  1329 Not found connect R/L/J component
+847  1396 Not found connect R/L/J component
+847  1399 Not found connect R/L/J component
+847  1412 Not found connect R/L/J component
+847  1413 Not found connect R/L/J component
+847  1449 Not found connect R/L/J component
+847  1450 Not found connect R/L/J component
+847  1455 Not found connect R/L/J component
+847  1463 Not found connect R/L/J component
+847  1507 Not found connect R/L/J component
+847  1555 Not found connect R/L/J component
+867  872  Not found connect R/L/J component
+867  933  Not found connect R/L/J component
+867  1033 Not found connect R/L/J component
+867  1145 Not found connect R/L/J component
+867  1176 Not found connect R/L/J component
+867  1183 Not found connect R/L/J component
+867  1270 Not found connect R/L/J component
+867  1271 Not found connect R/L/J component
+867  1272 Not found connect R/L/J component
+867  1273 Not found connect R/L/J component
+867  1278 Not found connect R/L/J component
+867  1279 Not found connect R/L/J component
+867  1280 Not found connect R/L/J component
+867  1285 Not found connect R/L/J component
+867  1320 Not found connect R/L/J component
+867  1321 Not found connect R/L/J component
+867  1323 Not found connect R/L/J component
+867  1324 Not found connect R/L/J component
+867  1325 Not found connect R/L/J component
+867  1326 Not found connect R/L/J component
+867  1327 Not found connect R/L/J component
+867  1328 Not found connect R/L/J component
+867  1329 Not found connect R/L/J component
+867  1396 Not found connect R/L/J component
+867  1399 Not found connect R/L/J component
+867  1412 Not found connect R/L/J component
+867  1413 Not found connect R/L/J component
+867  1449 Not found connect R/L/J component
+867  1450 Not found connect R/L/J component
+867  1455 Not found connect R/L/J component
+867  1463 Not found connect R/L/J component
+867  1507 Not found connect R/L/J component
+867  1555 Not found connect R/L/J component
+872  933  Not found connect R/L/J component
+872  1033 Not found connect R/L/J component
+872  1145 Not found connect R/L/J component
+872  1176 Not found connect R/L/J component
+872  1183 Not found connect R/L/J component
+872  1270 Not found connect R/L/J component
+872  1271 Not found connect R/L/J component
+872  1272 Not found connect R/L/J component
+872  1273 Not found connect R/L/J component
+872  1278 Not found connect R/L/J component
+872  1279 Not found connect R/L/J component
+872  1280 Not found connect R/L/J component
+872  1285 Not found connect R/L/J component
+872  1320 Not found connect R/L/J component
+872  1321 Not found connect R/L/J component
+872  1323 Not found connect R/L/J component
+872  1324 Not found connect R/L/J component
+872  1325 Not found connect R/L/J component
+872  1326 Not found connect R/L/J component
+872  1327 Not found connect R/L/J component
+872  1328 Not found connect R/L/J component
+872  1329 Not found connect R/L/J component
+872  1396 Not found connect R/L/J component
+872  1399 Not found connect R/L/J component
+872  1412 Not found connect R/L/J component
+872  1413 Not found connect R/L/J component
+872  1449 Not found connect R/L/J component
+872  1450 Not found connect R/L/J component
+872  1455 Not found connect R/L/J component
+872  1463 Not found connect R/L/J component
+872  1507 FIND Step 622 (J) L8501   1.0   
+872  1555 Not found connect R/L/J component
+933  1033 Not found connect R/L/J component
+933  1145 Not found connect R/L/J component
+933  1176 Not found connect R/L/J component
+933  1183 Not found connect R/L/J component
+933  1270 Not found connect R/L/J component
+933  1271 Not found connect R/L/J component
+933  1272 Not found connect R/L/J component
+933  1273 Not found connect R/L/J component
+933  1278 Not found connect R/L/J component
+933  1279 Not found connect R/L/J component
+933  1280 Not found connect R/L/J component
+933  1285 Not found connect R/L/J component
+933  1320 Not found connect R/L/J component
+933  1321 Not found connect R/L/J component
+933  1323 Not found connect R/L/J component
+933  1324 Not found connect R/L/J component
+933  1325 Not found connect R/L/J component
+933  1326 Not found connect R/L/J component
+933  1327 Not found connect R/L/J component
+933  1328 Not found connect R/L/J component
+933  1329 Not found connect R/L/J component
+933  1396 Not found connect R/L/J component
+933  1399 Not found connect R/L/J component
+933  1412 Not found connect R/L/J component
+933  1413 Not found connect R/L/J component
+933  1449 Not found connect R/L/J component
+933  1450 Not found connect R/L/J component
+933  1455 Not found connect R/L/J component
+933  1463 Not found connect R/L/J component
+933  1507 Not found connect R/L/J component
+933  1555 Not found connect R/L/J component
+1033 1145 Not found connect R/L/J component
+1033 1176 Not found connect R/L/J component
+1033 1183 Not found connect R/L/J component
+1033 1270 Not found connect R/L/J component
+1033 1271 Not found connect R/L/J component
+1033 1272 Not found connect R/L/J component
+1033 1273 Not found connect R/L/J component
+1033 1278 Not found connect R/L/J component
+1033 1279 Not found connect R/L/J component
+1033 1280 Not found connect R/L/J component
+1033 1285 Not found connect R/L/J component
+1033 1320 Not found connect R/L/J component
+1033 1321 Not found connect R/L/J component
+1033 1323 Not found connect R/L/J component
+1033 1324 Not found connect R/L/J component
+1033 1325 Not found connect R/L/J component
+1033 1326 Not found connect R/L/J component
+1033 1327 Not found connect R/L/J component
+1033 1328 Not found connect R/L/J component
+1033 1329 Not found connect R/L/J component
+1033 1396 Not found connect R/L/J component
+1033 1399 Not found connect R/L/J component
+1033 1412 Not found connect R/L/J component
+1033 1413 Not found connect R/L/J component
+1033 1449 Not found connect R/L/J component
+1033 1450 Not found connect R/L/J component
+1033 1455 Not found connect R/L/J component
+1033 1463 Not found connect R/L/J component
+1033 1507 Not found connect R/L/J component
+1033 1555 Not found connect R/L/J component
+1145 1176 Not found connect R/L/J component
+1145 1183 Not found connect R/L/J component
+1145 1270 Not found connect R/L/J component
+1145 1271 Not found connect R/L/J component
+1145 1272 Not found connect R/L/J component
+1145 1273 Not found connect R/L/J component
+1145 1278 Not found connect R/L/J component
+1145 1279 Not found connect R/L/J component
+1145 1280 Not found connect R/L/J component
+1145 1285 Not found connect R/L/J component
+1145 1320 Not found connect R/L/J component
+1145 1321 Not found connect R/L/J component
+1145 1323 Not found connect R/L/J component
+1145 1324 Not found connect R/L/J component
+1145 1325 Not found connect R/L/J component
+1145 1326 Not found connect R/L/J component
+1145 1327 Not found connect R/L/J component
+1145 1328 Not found connect R/L/J component
+1145 1329 Not found connect R/L/J component
+1145 1396 Not found connect R/L/J component
+1145 1399 Not found connect R/L/J component
+1145 1412 Not found connect R/L/J component
+1145 1413 Not found connect R/L/J component
+1145 1449 Not found connect R/L/J component
+1145 1450 Not found connect R/L/J component
+1145 1455 Not found connect R/L/J component
+1145 1463 Not found connect R/L/J component
+1145 1507 Not found connect R/L/J component
+1145 1555 Not found connect R/L/J component
+1176 1183 Not found connect R/L/J component
+1176 1270 Not found connect R/L/J component
+1176 1271 Not found connect R/L/J component
+1176 1272 Not found connect R/L/J component
+1176 1273 Not found connect R/L/J component
+1176 1278 Not found connect R/L/J component
+1176 1279 Not found connect R/L/J component
+1176 1280 Not found connect R/L/J component
+1176 1285 Not found connect R/L/J component
+1176 1320 Not found connect R/L/J component
+1176 1321 Not found connect R/L/J component
+1176 1323 Not found connect R/L/J component
+1176 1324 Not found connect R/L/J component
+1176 1325 Not found connect R/L/J component
+1176 1326 Not found connect R/L/J component
+1176 1327 Not found connect R/L/J component
+1176 1328 Not found connect R/L/J component
+1176 1329 Not found connect R/L/J component
+1176 1396 Not found connect R/L/J component
+1176 1399 Not found connect R/L/J component
+1176 1412 Not found connect R/L/J component
+1176 1413 Not found connect R/L/J component
+1176 1449 Not found connect R/L/J component
+1176 1450 Not found connect R/L/J component
+1176 1455 Not found connect R/L/J component
+1176 1463 Not found connect R/L/J component
+1176 1507 Not found connect R/L/J component
+1176 1555 Not found connect R/L/J component
+1183 1270 Not found connect R/L/J component
+1183 1271 Not found connect R/L/J component
+1183 1272 Not found connect R/L/J component
+1183 1273 Not found connect R/L/J component
+1183 1278 Not found connect R/L/J component
+1183 1279 Not found connect R/L/J component
+1183 1280 Not found connect R/L/J component
+1183 1285 Not found connect R/L/J component
+1183 1320 Not found connect R/L/J component
+1183 1321 Not found connect R/L/J component
+1183 1323 Not found connect R/L/J component
+1183 1324 Not found connect R/L/J component
+1183 1325 Not found connect R/L/J component
+1183 1326 Not found connect R/L/J component
+1183 1327 Not found connect R/L/J component
+1183 1328 Not found connect R/L/J component
+1183 1329 Not found connect R/L/J component
+1183 1396 Not found connect R/L/J component
+1183 1399 Not found connect R/L/J component
+1183 1412 Not found connect R/L/J component
+1183 1413 Not found connect R/L/J component
+1183 1449 Not found connect R/L/J component
+1183 1450 Not found connect R/L/J component
+1183 1455 Not found connect R/L/J component
+1183 1463 Not found connect R/L/J component
+1183 1507 Not found connect R/L/J component
+1183 1555 Not found connect R/L/J component
+1270 1271 Not found connect R/L/J component
+1270 1272 Not found connect R/L/J component
+1270 1273 Not found connect R/L/J component
+1270 1278 Not found connect R/L/J component
+1270 1279 Not found connect R/L/J component
+1270 1280 Not found connect R/L/J component
+1270 1285 Not found connect R/L/J component
+1270 1320 Not found connect R/L/J component
+1270 1321 Not found connect R/L/J component
+1270 1323 Not found connect R/L/J component
+1270 1324 Not found connect R/L/J component
+1270 1325 Not found connect R/L/J component
+1270 1326 Not found connect R/L/J component
+1270 1327 Not found connect R/L/J component
+1270 1328 Not found connect R/L/J component
+1270 1329 Not found connect R/L/J component
+1270 1396 Not found connect R/L/J component
+1270 1399 Not found connect R/L/J component
+1270 1412 Not found connect R/L/J component
+1270 1413 Not found connect R/L/J component
+1270 1449 Not found connect R/L/J component
+1270 1450 Not found connect R/L/J component
+1270 1455 Not found connect R/L/J component
+1270 1463 Not found connect R/L/J component
+1270 1507 Not found connect R/L/J component
+1270 1555 Not found connect R/L/J component
+1271 1272 Not found connect R/L/J component
+1271 1273 Not found connect R/L/J component
+1271 1278 Not found connect R/L/J component
+1271 1279 Not found connect R/L/J component
+1271 1280 Not found connect R/L/J component
+1271 1285 Not found connect R/L/J component
+1271 1320 Not found connect R/L/J component
+1271 1321 Not found connect R/L/J component
+1271 1323 Not found connect R/L/J component
+1271 1324 Not found connect R/L/J component
+1271 1325 Not found connect R/L/J component
+1271 1326 Not found connect R/L/J component
+1271 1327 Not found connect R/L/J component
+1271 1328 Not found connect R/L/J component
+1271 1329 Not found connect R/L/J component
+1271 1396 Not found connect R/L/J component
+1271 1399 Not found connect R/L/J component
+1271 1412 Not found connect R/L/J component
+1271 1413 Not found connect R/L/J component
+1271 1449 Not found connect R/L/J component
+1271 1450 Not found connect R/L/J component
+1271 1455 Not found connect R/L/J component
+1271 1463 Not found connect R/L/J component
+1271 1507 Not found connect R/L/J component
+1271 1555 Not found connect R/L/J component
+1272 1273 Not found connect R/L/J component
+1272 1278 Not found connect R/L/J component
+1272 1279 Not found connect R/L/J component
+1272 1280 Not found connect R/L/J component
+1272 1285 Not found connect R/L/J component
+1272 1320 Not found connect R/L/J component
+1272 1321 Not found connect R/L/J component
+1272 1323 Not found connect R/L/J component
+1272 1324 Not found connect R/L/J component
+1272 1325 Not found connect R/L/J component
+1272 1326 Not found connect R/L/J component
+1272 1327 Not found connect R/L/J component
+1272 1328 Not found connect R/L/J component
+1272 1329 Not found connect R/L/J component
+1272 1396 Not found connect R/L/J component
+1272 1399 Not found connect R/L/J component
+1272 1412 Not found connect R/L/J component
+1272 1413 Not found connect R/L/J component
+1272 1449 Not found connect R/L/J component
+1272 1450 Not found connect R/L/J component
+1272 1455 Not found connect R/L/J component
+1272 1463 Not found connect R/L/J component
+1272 1507 Not found connect R/L/J component
+1272 1555 Not found connect R/L/J component
+1273 1278 Not found connect R/L/J component
+1273 1279 Not found connect R/L/J component
+1273 1280 Not found connect R/L/J component
+1273 1285 Not found connect R/L/J component
+1273 1320 Not found connect R/L/J component
+1273 1321 Not found connect R/L/J component
+1273 1323 Not found connect R/L/J component
+1273 1324 Not found connect R/L/J component
+1273 1325 Not found connect R/L/J component
+1273 1326 Not found connect R/L/J component
+1273 1327 Not found connect R/L/J component
+1273 1328 Not found connect R/L/J component
+1273 1329 Not found connect R/L/J component
+1273 1396 Not found connect R/L/J component
+1273 1399 Not found connect R/L/J component
+1273 1412 Not found connect R/L/J component
+1273 1413 Not found connect R/L/J component
+1273 1449 Not found connect R/L/J component
+1273 1450 Not found connect R/L/J component
+1273 1455 Not found connect R/L/J component
+1273 1463 Not found connect R/L/J component
+1273 1507 Not found connect R/L/J component
+1273 1555 Not found connect R/L/J component
+1278 1279 Not found connect R/L/J component
+1278 1280 Not found connect R/L/J component
+1278 1285 Not found connect R/L/J component
+1278 1320 Not found connect R/L/J component
+1278 1321 Not found connect R/L/J component
+1278 1323 Not found connect R/L/J component
+1278 1324 Not found connect R/L/J component
+1278 1325 Not found connect R/L/J component
+1278 1326 Not found connect R/L/J component
+1278 1327 Not found connect R/L/J component
+1278 1328 Not found connect R/L/J component
+1278 1329 Not found connect R/L/J component
+1278 1396 Not found connect R/L/J component
+1278 1399 Not found connect R/L/J component
+1278 1412 Not found connect R/L/J component
+1278 1413 Not found connect R/L/J component
+1278 1449 Not found connect R/L/J component
+1278 1450 Not found connect R/L/J component
+1278 1455 Not found connect R/L/J component
+1278 1463 Not found connect R/L/J component
+1278 1507 Not found connect R/L/J component
+1278 1555 Not found connect R/L/J component
+1279 1280 Not found connect R/L/J component
+1279 1285 Not found connect R/L/J component
+1279 1320 Not found connect R/L/J component
+1279 1321 Not found connect R/L/J component
+1279 1323 Not found connect R/L/J component
+1279 1324 Not found connect R/L/J component
+1279 1325 Not found connect R/L/J component
+1279 1326 Not found connect R/L/J component
+1279 1327 Not found connect R/L/J component
+1279 1328 Not found connect R/L/J component
+1279 1329 Not found connect R/L/J component
+1279 1396 Not found connect R/L/J component
+1279 1399 Not found connect R/L/J component
+1279 1412 Not found connect R/L/J component
+1279 1413 Not found connect R/L/J component
+1279 1449 Not found connect R/L/J component
+1279 1450 Not found connect R/L/J component
+1279 1455 Not found connect R/L/J component
+1279 1463 Not found connect R/L/J component
+1279 1507 Not found connect R/L/J component
+1279 1555 Not found connect R/L/J component
+1280 1285 Not found connect R/L/J component
+1280 1320 Not found connect R/L/J component
+1280 1321 Not found connect R/L/J component
+1280 1323 Not found connect R/L/J component
+1280 1324 Not found connect R/L/J component
+1280 1325 Not found connect R/L/J component
+1280 1326 Not found connect R/L/J component
+1280 1327 Not found connect R/L/J component
+1280 1328 Not found connect R/L/J component
+1280 1329 Not found connect R/L/J component
+1280 1396 Not found connect R/L/J component
+1280 1399 Not found connect R/L/J component
+1280 1412 Not found connect R/L/J component
+1280 1413 Not found connect R/L/J component
+1280 1449 Not found connect R/L/J component
+1280 1450 Not found connect R/L/J component
+1280 1455 Not found connect R/L/J component
+1280 1463 Not found connect R/L/J component
+1280 1507 Not found connect R/L/J component
+1280 1555 Not found connect R/L/J component
+1285 1320 Not found connect R/L/J component
+1285 1321 Not found connect R/L/J component
+1285 1323 Not found connect R/L/J component
+1285 1324 Not found connect R/L/J component
+1285 1325 Not found connect R/L/J component
+1285 1326 Not found connect R/L/J component
+1285 1327 Not found connect R/L/J component
+1285 1328 Not found connect R/L/J component
+1285 1329 Not found connect R/L/J component
+1285 1396 Not found connect R/L/J component
+1285 1399 Not found connect R/L/J component
+1285 1412 Not found connect R/L/J component
+1285 1413 Not found connect R/L/J component
+1285 1449 Not found connect R/L/J component
+1285 1450 Not found connect R/L/J component
+1285 1455 Not found connect R/L/J component
+1285 1463 Not found connect R/L/J component
+1285 1507 Not found connect R/L/J component
+1285 1555 Not found connect R/L/J component
+1320 1321 Not found connect R/L/J component
+1320 1323 Not found connect R/L/J component
+1320 1324 Not found connect R/L/J component
+1320 1325 Not found connect R/L/J component
+1320 1326 Not found connect R/L/J component
+1320 1327 Not found connect R/L/J component
+1320 1328 Not found connect R/L/J component
+1320 1329 Not found connect R/L/J component
+1320 1396 Not found connect R/L/J component
+1320 1399 Not found connect R/L/J component
+1320 1412 Not found connect R/L/J component
+1320 1413 Not found connect R/L/J component
+1320 1449 Not found connect R/L/J component
+1320 1450 Not found connect R/L/J component
+1320 1455 Not found connect R/L/J component
+1320 1463 Not found connect R/L/J component
+1320 1507 Not found connect R/L/J component
+1320 1555 Not found connect R/L/J component
+1321 1323 Not found connect R/L/J component
+1321 1324 Not found connect R/L/J component
+1321 1325 Not found connect R/L/J component
+1321 1326 Not found connect R/L/J component
+1321 1327 Not found connect R/L/J component
+1321 1328 Not found connect R/L/J component
+1321 1329 Not found connect R/L/J component
+1321 1396 Not found connect R/L/J component
+1321 1399 Not found connect R/L/J component
+1321 1412 Not found connect R/L/J component
+1321 1413 Not found connect R/L/J component
+1321 1449 Not found connect R/L/J component
+1321 1450 Not found connect R/L/J component
+1321 1455 Not found connect R/L/J component
+1321 1463 Not found connect R/L/J component
+1321 1507 Not found connect R/L/J component
+1321 1555 Not found connect R/L/J component
+1323 1324 Not found connect R/L/J component
+1323 1325 Not found connect R/L/J component
+1323 1326 Not found connect R/L/J component
+1323 1327 Not found connect R/L/J component
+1323 1328 Not found connect R/L/J component
+1323 1329 Not found connect R/L/J component
+1323 1396 Not found connect R/L/J component
+1323 1399 Not found connect R/L/J component
+1323 1412 Not found connect R/L/J component
+1323 1413 Not found connect R/L/J component
+1323 1449 Not found connect R/L/J component
+1323 1450 Not found connect R/L/J component
+1323 1455 Not found connect R/L/J component
+1323 1463 Not found connect R/L/J component
+1323 1507 Not found connect R/L/J component
+1323 1555 Not found connect R/L/J component
+1324 1325 Not found connect R/L/J component
+1324 1326 Not found connect R/L/J component
+1324 1327 Not found connect R/L/J component
+1324 1328 Not found connect R/L/J component
+1324 1329 Not found connect R/L/J component
+1324 1396 Not found connect R/L/J component
+1324 1399 Not found connect R/L/J component
+1324 1412 Not found connect R/L/J component
+1324 1413 Not found connect R/L/J component
+1324 1449 Not found connect R/L/J component
+1324 1450 Not found connect R/L/J component
+1324 1455 Not found connect R/L/J component
+1324 1463 Not found connect R/L/J component
+1324 1507 Not found connect R/L/J component
+1324 1555 Not found connect R/L/J component
+1325 1326 Not found connect R/L/J component
+1325 1327 Not found connect R/L/J component
+1325 1328 Not found connect R/L/J component
+1325 1329 Not found connect R/L/J component
+1325 1396 Not found connect R/L/J component
+1325 1399 Not found connect R/L/J component
+1325 1412 Not found connect R/L/J component
+1325 1413 Not found connect R/L/J component
+1325 1449 Not found connect R/L/J component
+1325 1450 Not found connect R/L/J component
+1325 1455 Not found connect R/L/J component
+1325 1463 Not found connect R/L/J component
+1325 1507 Not found connect R/L/J component
+1325 1555 Not found connect R/L/J component
+1326 1327 Not found connect R/L/J component
+1326 1328 Not found connect R/L/J component
+1326 1329 Not found connect R/L/J component
+1326 1396 Not found connect R/L/J component
+1326 1399 Not found connect R/L/J component
+1326 1412 Not found connect R/L/J component
+1326 1413 Not found connect R/L/J component
+1326 1449 Not found connect R/L/J component
+1326 1450 Not found connect R/L/J component
+1326 1455 Not found connect R/L/J component
+1326 1463 Not found connect R/L/J component
+1326 1507 Not found connect R/L/J component
+1326 1555 Not found connect R/L/J component
+1327 1328 Not found connect R/L/J component
+1327 1329 Not found connect R/L/J component
+1327 1396 Not found connect R/L/J component
+1327 1399 Not found connect R/L/J component
+1327 1412 Not found connect R/L/J component
+1327 1413 Not found connect R/L/J component
+1327 1449 Not found connect R/L/J component
+1327 1450 Not found connect R/L/J component
+1327 1455 Not found connect R/L/J component
+1327 1463 Not found connect R/L/J component
+1327 1507 Not found connect R/L/J component
+1327 1555 Not found connect R/L/J component
+1328 1329 Not found connect R/L/J component
+1328 1396 Not found connect R/L/J component
+1328 1399 Not found connect R/L/J component
+1328 1412 Not found connect R/L/J component
+1328 1413 Not found connect R/L/J component
+1328 1449 Not found connect R/L/J component
+1328 1450 Not found connect R/L/J component
+1328 1455 Not found connect R/L/J component
+1328 1463 Not found connect R/L/J component
+1328 1507 Not found connect R/L/J component
+1328 1555 Not found connect R/L/J component
+1329 1396 Not found connect R/L/J component
+1329 1399 Not found connect R/L/J component
+1329 1412 Not found connect R/L/J component
+1329 1413 Not found connect R/L/J component
+1329 1449 Not found connect R/L/J component
+1329 1450 Not found connect R/L/J component
+1329 1455 Not found connect R/L/J component
+1329 1463 Not found connect R/L/J component
+1329 1507 Not found connect R/L/J component
+1329 1555 Not found connect R/L/J component
+1396 1399 Not found connect R/L/J component
+1396 1412 Not found connect R/L/J component
+1396 1413 Not found connect R/L/J component
+1396 1449 Not found connect R/L/J component
+1396 1450 Not found connect R/L/J component
+1396 1455 Not found connect R/L/J component
+1396 1463 Not found connect R/L/J component
+1396 1507 Not found connect R/L/J component
+1396 1555 Not found connect R/L/J component
+1399 1412 Not found connect R/L/J component
+1399 1413 Not found connect R/L/J component
+1399 1449 Not found connect R/L/J component
+1399 1450 Not found connect R/L/J component
+1399 1455 Not found connect R/L/J component
+1399 1463 Not found connect R/L/J component
+1399 1507 Not found connect R/L/J component
+1399 1555 Not found connect R/L/J component
+1412 1413 Not found connect R/L/J component
+1412 1449 Not found connect R/L/J component
+1412 1450 Not found connect R/L/J component
+1412 1455 Not found connect R/L/J component
+1412 1463 Not found connect R/L/J component
+1412 1507 Not found connect R/L/J component
+1412 1555 Not found connect R/L/J component
+1413 1449 Not found connect R/L/J component
+1413 1450 Not found connect R/L/J component
+1413 1455 Not found connect R/L/J component
+1413 1463 Not found connect R/L/J component
+1413 1507 Not found connect R/L/J component
+1413 1555 Not found connect R/L/J component
+1449 1450 Not found connect R/L/J component
+1449 1455 Not found connect R/L/J component
+1449 1463 Not found connect R/L/J component
+1449 1507 Not found connect R/L/J component
+1449 1555 Not found connect R/L/J component
+1450 1455 Not found connect R/L/J component
+1450 1463 FIND Step 507 (J) JP3602_1_2   1.0   
+1450 1507 Not found connect R/L/J component
+1450 1555 Not found connect R/L/J component
+1455 1463 FIND Step 508 (J) JP3603_1_2   1.0   
+1455 1507 Not found connect R/L/J component
+1455 1555 Not found connect R/L/J component
+1463 1507 Not found connect R/L/J component
+1463 1555 Not found connect R/L/J component
+1507 1555 Not found connect R/L/J component
+Absolute alone nail 63 Insert resistore step for Nail 1 and 63
+Absolute alone nail 95 Insert resistore step for Nail 1 and 95
+Absolute alone nail 105 Insert resistore step for Nail 1 and 105
+Absolute alone nail 106 Insert resistore step for Nail 1 and 106
+Absolute alone nail 109 Insert resistore step for Nail 1 and 109
+Absolute alone nail 111 Insert resistore step for Nail 1 and 111
+Absolute alone nail 112 Insert resistore step for Nail 1 and 112
+Absolute alone nail 113 Insert resistore step for Nail 1 and 113
+Absolute alone nail 123 Insert resistore step for Nail 1 and 123
+Absolute alone nail 124 Insert resistore step for Nail 1 and 124
+Absolute alone nail 125 Insert resistore step for Nail 1 and 125
+Absolute alone nail 127 Insert resistore step for Nail 1 and 127
+Absolute alone nail 128 Insert resistore step for Nail 1 and 128
+Absolute alone nail 129 Insert resistore step for Nail 1 and 129
+Absolute alone nail 131 Insert resistore step for Nail 1 and 131
+Absolute alone nail 670 Insert resistore step for Nail 1 and 670
+Absolute alone nail 677 Insert resistore step for Nail 1 and 677
+Absolute alone nail 678 Insert resistore step for Nail 1 and 678
+Absolute alone nail 867 Insert resistore step for Nail 1 and 867
+Absolute alone nail 1033 Insert resistore step for Nail 1 and 1033
+Absolute alone nail 1145 Insert resistore step for Nail 1 and 1145
+Absolute alone nail 1176 Insert resistore step for Nail 1 and 1176
+Absolute alone nail 1270 Insert resistore step for Nail 1 and 1270
+Absolute alone nail 1271 Insert resistore step for Nail 1 and 1271
+Absolute alone nail 1272 Insert resistore step for Nail 1 and 1272
+Absolute alone nail 1273 Insert resistore step for Nail 1 and 1273
+Absolute alone nail 1278 Insert resistore step for Nail 1 and 1278
+Absolute alone nail 1279 Insert resistore step for Nail 1 and 1279
+Absolute alone nail 1280 Insert resistore step for Nail 1 and 1280
+Absolute alone nail 1285 Insert resistore step for Nail 1 and 1285
+Absolute alone nail 1320 Insert resistore step for Nail 1 and 1320
+Absolute alone nail 1323 Insert resistore step for Nail 1 and 1323
+Absolute alone nail 1324 Insert resistore step for Nail 1 and 1324
+Absolute alone nail 1325 Insert resistore step for Nail 1 and 1325
+Absolute alone nail 1326 Insert resistore step for Nail 1 and 1326
+Absolute alone nail 1327 Insert resistore step for Nail 1 and 1327
+Absolute alone nail 1328 Insert resistore step for Nail 1 and 1328
+Absolute alone nail 1329 Insert resistore step for Nail 1 and 1329
+Absolute alone nail 1555 Insert resistore step for Nail 1 and 1555
+
+Group 2    
+2    3    1114 1116 1118 1123 1124 1125 1128 
+2    3    FIND Step 664 (J) L9203   1.0   
+2    1114 Not found connect R/L/J component
+2    1116 Not found connect R/L/J component
+2    1118 Not found connect R/L/J component
+2    1123 Not found connect R/L/J component
+2    1124 Not found connect R/L/J component
+2    1125 Not found connect R/L/J component
+2    1128 Not found connect R/L/J component
+3    1114 Not found connect R/L/J component
+3    1116 Not found connect R/L/J component
+3    1118 Not found connect R/L/J component
+3    1123 Not found connect R/L/J component
+3    1124 Not found connect R/L/J component
+3    1125 Not found connect R/L/J component
+3    1128 FIND Step1317 (J) R8802   1.0   
+1114 1116 Not found connect R/L/J component
+1114 1118 Not found connect R/L/J component
+1114 1123 Not found connect R/L/J component
+1114 1124 Not found connect R/L/J component
+1114 1125 Not found connect R/L/J component
+1114 1128 Not found connect R/L/J component
+1116 1118 Not found connect R/L/J component
+1116 1123 Not found connect R/L/J component
+1116 1124 Not found connect R/L/J component
+1116 1125 Not found connect R/L/J component
+1116 1128 Not found connect R/L/J component
+1118 1123 Not found connect R/L/J component
+1118 1124 Not found connect R/L/J component
+1118 1125 Not found connect R/L/J component
+1118 1128 Not found connect R/L/J component
+1123 1124 Not found connect R/L/J component
+1123 1125 Not found connect R/L/J component
+1123 1128 Not found connect R/L/J component
+1124 1125 FIND Step 802 (J) R8804   1.0   
+1124 1128 Not found connect R/L/J component
+1125 1128 FIND Step  44 (L) L8801   6.8uH 
+Absolute alone nail 1114 Insert resistore step for Nail 2 and 1114
+Absolute alone nail 1116 Insert resistore step for Nail 2 and 1116
+Absolute alone nail 1118 Insert resistore step for Nail 2 and 1118
+Absolute alone nail 1123 Insert resistore step for Nail 2 and 1123
+
+Group 3    
+4    56   57   58   515  825  1018 1095 1530 1541 1550 1556 1612 
+4    56   FIND Step1320 (J) R8801   1.0   
+4    57   Not found connect R/L/J component
+4    58   Not found connect R/L/J component
+4    515  FIND Step 577 (J) JP8301_1_2   1.0   
+4    825  Not found connect R/L/J component
+4    1018 Not found connect R/L/J component
+4    1095 FIND Step 655 (J) L4504   1.0   
+4    1530 FIND Step 588 (J) JP8603_1_2   1.0   
+4    1541 FIND Step 561 (J) JP8001_1_2   1.0   
+4    1550 FIND Step 575 (J) JP8203_1_2   1.0   
+4    1556 FIND Step 584 (J) JP8505_1_2   1.0   
+4    1612 FIND Step 564 (J) JP8105_1_2   1.0   
+56   57   Not found connect R/L/J component
+56   58   Not found connect R/L/J component
+56   515  Not found connect R/L/J component
+56   825  Not found connect R/L/J component
+56   1018 Not found connect R/L/J component
+56   1095 Not found connect R/L/J component
+56   1530 Not found connect R/L/J component
+56   1541 Not found connect R/L/J component
+56   1550 Not found connect R/L/J component
+56   1556 Not found connect R/L/J component
+56   1612 Not found connect R/L/J component
+57   58   Not found connect R/L/J component
+57   515  Not found connect R/L/J component
+57   825  Not found connect R/L/J component
+57   1018 Not found connect R/L/J component
+57   1095 Not found connect R/L/J component
+57   1530 Not found connect R/L/J component
+57   1541 Not found connect R/L/J component
+57   1550 Not found connect R/L/J component
+57   1556 Not found connect R/L/J component
+57   1612 Not found connect R/L/J component
+58   515  Not found connect R/L/J component
+58   825  Not found connect R/L/J component
+58   1018 Not found connect R/L/J component
+58   1095 Not found connect R/L/J component
+58   1530 Not found connect R/L/J component
+58   1541 Not found connect R/L/J component
+58   1550 Not found connect R/L/J component
+58   1556 Not found connect R/L/J component
+58   1612 Not found connect R/L/J component
+515  825  Not found connect R/L/J component
+515  1018 Not found connect R/L/J component
+515  1095 Not found connect R/L/J component
+515  1530 Not found connect R/L/J component
+515  1541 Not found connect R/L/J component
+515  1550 Not found connect R/L/J component
+515  1556 Not found connect R/L/J component
+515  1612 Not found connect R/L/J component
+825  1018 Not found connect R/L/J component
+825  1095 Not found connect R/L/J component
+825  1530 FIND Step 816 (R) R8616  10.0   
+825  1541 Not found connect R/L/J component
+825  1550 Not found connect R/L/J component
+825  1556 Not found connect R/L/J component
+825  1612 Not found connect R/L/J component
+1018 1095 Not found connect R/L/J component
+1018 1530 Not found connect R/L/J component
+1018 1541 Not found connect R/L/J component
+1018 1550 Not found connect R/L/J component
+1018 1556 Not found connect R/L/J component
+1018 1612 FIND Step 768 (J) R8114   1.0   
+1095 1530 Not found connect R/L/J component
+1095 1541 Not found connect R/L/J component
+1095 1550 Not found connect R/L/J component
+1095 1556 Not found connect R/L/J component
+1095 1612 Not found connect R/L/J component
+1530 1541 Not found connect R/L/J component
+1530 1550 Not found connect R/L/J component
+1530 1556 Not found connect R/L/J component
+1530 1612 Not found connect R/L/J component
+1541 1550 Not found connect R/L/J component
+1541 1556 Not found connect R/L/J component
+1541 1612 Not found connect R/L/J component
+1550 1556 Not found connect R/L/J component
+1550 1612 Not found connect R/L/J component
+1556 1612 Not found connect R/L/J component
+Absolute alone nail 57 Insert resistore step for Nail 4 and 57
+Absolute alone nail 58 Insert resistore step for Nail 4 and 58
+
+Group 4    
+5    78   1119 1122 
+5    78   Not found connect R/L/J component
+5    1119 Not found connect R/L/J component
+5    1122 Not found connect R/L/J component
+78   1119 Not found connect R/L/J component
+78   1122 Not found connect R/L/J component
+1119 1122 Not found connect R/L/J component
+Absolute alone nail 5 Insert resistore step for Nail 5 and 78
+Absolute alone nail 1119 Insert resistore step for Nail 5 and 1119
+Absolute alone nail 1122 Insert resistore step for Nail 5 and 1122
+
+Group 5    
+6    517  519  827  845  1395 1400 1531 1534 
+6    517  Not found connect R/L/J component
+6    519  Not found connect R/L/J component
+6    827  Not found connect R/L/J component
+6    845  Not found connect R/L/J component
+6    1395 FIND Step 671 (J) L8601   1.0   
+6    1400 FIND Step 591 (J) JP8601_1_2   1.0   
+6    1531 Not found connect R/L/J component
+6    1534 Not found connect R/L/J component
+517  519  Not found connect R/L/J component
+517  827  Not found connect R/L/J component
+517  845  Not found connect R/L/J component
+517  1395 Not found connect R/L/J component
+517  1400 Not found connect R/L/J component
+517  1531 Not found connect R/L/J component
+517  1534 Not found connect R/L/J component
+519  827  Not found connect R/L/J component
+519  845  Not found connect R/L/J component
+519  1395 Not found connect R/L/J component
+519  1400 Not found connect R/L/J component
+519  1531 Not found connect R/L/J component
+519  1534 FIND Step 782 (J) R8615   1.0   
+827  845  Not found connect R/L/J component
+827  1395 Not found connect R/L/J component
+827  1400 Not found connect R/L/J component
+827  1531 Not found connect R/L/J component
+827  1534 FIND Step 822 (R) R8621  10.0   
+845  1395 Not found connect R/L/J component
+845  1400 Not found connect R/L/J component
+845  1531 Not found connect R/L/J component
+845  1534 FIND Step 823 (R) R8622  10.0   
+1395 1400 Not found connect R/L/J component
+1395 1531 Not found connect R/L/J component
+1395 1534 Not found connect R/L/J component
+1400 1531 Not found connect R/L/J component
+1400 1534 Not found connect R/L/J component
+1531 1534 Not found connect R/L/J component
+Absolute alone nail 517 Insert resistore step for Nail 6 and 517
+Absolute alone nail 1531 Insert resistore step for Nail 6 and 1531
+
+Group 6    
+8    1030 1536 1537 1542 1543 1651 1652 
+8    1030 FIND Step 816 (R) R8044  10.0   
+8    1536 FIND Step 665 (J) L8001   1.0   
+8    1537 Not found connect R/L/J component
+8    1542 FIND Step 666 (J) L8002   1.0   
+8    1543 Not found connect R/L/J component
+8    1651 Not found connect R/L/J component
+8    1652 Not found connect R/L/J component
+1030 1536 Not found connect R/L/J component
+1030 1537 Not found connect R/L/J component
+1030 1542 Not found connect R/L/J component
+1030 1543 Not found connect R/L/J component
+1030 1651 Not found connect R/L/J component
+1030 1652 Not found connect R/L/J component
+1536 1537 FIND Step 808 (J) R8009   1.0   
+1536 1542 Not found connect R/L/J component
+1536 1543 Not found connect R/L/J component
+1536 1651 Not found connect R/L/J component
+1536 1652 Not found connect R/L/J component
+1537 1542 Not found connect R/L/J component
+1537 1543 Not found connect R/L/J component
+1537 1651 Not found connect R/L/J component
+1537 1652 Not found connect R/L/J component
+1542 1543 FIND Step 811 (J) R8019   1.0   
+1542 1651 Not found connect R/L/J component
+1542 1652 Not found connect R/L/J component
+1543 1651 Not found connect R/L/J component
+1543 1652 Not found connect R/L/J component
+1651 1652 Not found connect R/L/J component
+Absolute alone nail 1651 Insert resistore step for Nail 8 and 1651
+Absolute alone nail 1652 Insert resistore step for Nail 8 and 1652
+
+Group 7    
+9    494  714  715  837  889  974  1539 1643 1658 
+9    494  FIND Step 750 (J) R3104   1.0   
+9    714  Not found connect R/L/J component
+9    715  FIND Step 561 (J) JP3611_1_2   1.0   
+9    837  FIND Step 816 (J) R8604   1.0   
+9    889  FIND Step 830 (R) R8704  10.0   
+9    974  FIND Step 760 (J) R5101   1.0   
+9    1539 FIND Step 761 (J) R5103   1.0   
+9    1643 Not found connect R/L/J component
+9    1658 Not found connect R/L/J component
+494  714  Not found connect R/L/J component
+494  715  Not found connect R/L/J component
+494  837  Not found connect R/L/J component
+494  889  Not found connect R/L/J component
+494  974  Not found connect R/L/J component
+494  1539 Not found connect R/L/J component
+494  1643 Not found connect R/L/J component
+494  1658 Not found connect R/L/J component
+714  715  FIND Step 809 (J) R3602   1.0   
+714  837  Not found connect R/L/J component
+714  889  Not found connect R/L/J component
+714  974  Not found connect R/L/J component
+714  1539 Not found connect R/L/J component
+714  1643 Not found connect R/L/J component
+714  1658 Not found connect R/L/J component
+715  837  Not found connect R/L/J component
+715  889  Not found connect R/L/J component
+715  974  Not found connect R/L/J component
+715  1539 Not found connect R/L/J component
+715  1643 Not found connect R/L/J component
+715  1658 Not found connect R/L/J component
+837  889  Not found connect R/L/J component
+837  974  Not found connect R/L/J component
+837  1539 Not found connect R/L/J component
+837  1643 Not found connect R/L/J component
+837  1658 Not found connect R/L/J component
+889  974  Not found connect R/L/J component
+889  1539 Not found connect R/L/J component
+889  1643 Not found connect R/L/J component
+889  1658 Not found connect R/L/J component
+974  1539 Not found connect R/L/J component
+974  1643 Not found connect R/L/J component
+974  1658 Not found connect R/L/J component
+1539 1643 Not found connect R/L/J component
+1539 1658 Not found connect R/L/J component
+1643 1658 FIND Step 817 (R) R8014  10.0   
+
+Group 8    
+10   12   13   169  944  957  
+10   12   FIND Step 575 (J) JP8107_1_2   1.0   
+10   13   Not found connect R/L/J component
+10   169  Not found connect R/L/J component
+10   944  Not found connect R/L/J component
+10   957  Not found connect R/L/J component
+12   13   Not found connect R/L/J component
+12   169  Not found connect R/L/J component
+12   944  FIND Step 554 (J) JP3001_1_2   1.0   
+12   957  Not found connect R/L/J component
+13   169  Not found connect R/L/J component
+13   944  FIND Step 557 (J) JP3004_1_2   1.0   
+13   957  Not found connect R/L/J component
+169  944  Not found connect R/L/J component
+169  957  Not found connect R/L/J component
+944  957  FIND Step 556 (J) JP3003_1_2   1.0   
+Absolute alone nail 169 Insert resistore step for Nail 10 and 169
+
+Group 9    
+11   317  
+11   317  FIND Step 590 (J) JP8304_1_2   1.0   
+
+Group 10   
+14   1043 
+14   1043 FIND Step 616 (J) L6102   1.0   
+
+Group 11   
+34   36   
+34   36   FIND Step 760 (J) R4510   1.0   
+
+Group 12   
+42   44   
+42   44   FIND Step 719 (J) R2417   1.0   
+
+Group 13   
+43   1091 
+43   1091 FIND Step 614 (J) L4502   1.0   
+
+Group 14   
+49   890  1387 1390 1391 1392 1394 
+49   890  Not found connect R/L/J component
+49   1387 Not found connect R/L/J component
+49   1390 FIND Step 589 (J) JP8303_1_2   1.0   
+49   1391 Not found connect R/L/J component
+49   1392 Not found connect R/L/J component
+49   1394 Not found connect R/L/J component
+890  1387 Not found connect R/L/J component
+890  1390 FIND Step 600 (J) JP8702_1_2   1.0   
+890  1391 Not found connect R/L/J component
+890  1392 Not found connect R/L/J component
+890  1394 Not found connect R/L/J component
+1387 1390 Not found connect R/L/J component
+1387 1391 FIND Step  56 (L) L8301   1.0uH 
+1387 1392 Not found connect R/L/J component
+1387 1394 Not found connect R/L/J component
+1390 1391 FIND Step 588 (J) JP8302_1_2   1.0   
+1390 1392 Not found connect R/L/J component
+1390 1394 Not found connect R/L/J component
+1391 1392 Not found connect R/L/J component
+1391 1394 Not found connect R/L/J component
+1392 1394 Not found connect R/L/J component
+Absolute alone nail 1392 Insert resistore step for Nail 49 and 1392
+Absolute alone nail 1394 Insert resistore step for Nail 49 and 1394
+
+Group 15   
+54   311  776  1103 
+54   311  FIND Step 761 (J) R3513   1.0   
+54   776  Not found connect R/L/J component
+54   1103 Not found connect R/L/J component
+311  776  FIND Step 759 (J) R3508   1.0   
+311  1103 FIND Step 760 (J) R3511   1.0   
+776  1103 Not found connect R/L/J component
+
+Group 16   
+65   1093 
+65   1093 FIND Step 810 (J) RNX4501-1-2   1.0   
+
+Group 17   
+73   357  
+73   357  Not found connect R/L/J component
+Absolute alone nail 73 Insert resistore step for Nail 73 and 357
+
+Group 18   
+77   79   
+77   79   FIND Step 792 (J) R8810   1.0   
+
+Group 19   
+80   891  1127 
+80   891  Not found connect R/L/J component
+80   1127 FIND Step 725 (J) R2523   1.0   
+891  1127 FIND Step 791 (J) R8702   1.0   
+
+Group 20   
+84   133  1014 1193 1194 1230 1288 1610 1620 1632 1675 1679 
+84   133  FIND Step 745 (J) R2863   1.0   
+84   1014 Not found connect R/L/J component
+84   1193 Not found connect R/L/J component
+84   1194 Not found connect R/L/J component
+84   1230 Not found connect R/L/J component
+84   1288 Not found connect R/L/J component
+84   1610 Not found connect R/L/J component
+84   1620 Not found connect R/L/J component
+84   1632 Not found connect R/L/J component
+84   1675 Not found connect R/L/J component
+84   1679 Not found connect R/L/J component
+133  1014 Not found connect R/L/J component
+133  1193 FIND Step 739 (J) R2705   1.0   
+133  1194 FIND Step 737 (J) R2703   1.0   
+133  1230 FIND Step 731 (J) R2616   1.0   
+133  1288 FIND Step 741 (J) R2710   1.0   
+133  1610 Not found connect R/L/J component
+133  1620 Not found connect R/L/J component
+133  1632 Not found connect R/L/J component
+133  1675 FIND Step 555 (J) JP2703_1_2   1.0   
+133  1679 Not found connect R/L/J component
+1014 1193 Not found connect R/L/J component
+1014 1194 Not found connect R/L/J component
+1014 1230 Not found connect R/L/J component
+1014 1288 Not found connect R/L/J component
+1014 1610 Not found connect R/L/J component
+1014 1620 Not found connect R/L/J component
+1014 1632 Not found connect R/L/J component
+1014 1675 Not found connect R/L/J component
+1014 1679 Not found connect R/L/J component
+1193 1194 Not found connect R/L/J component
+1193 1230 Not found connect R/L/J component
+1193 1288 Not found connect R/L/J component
+1193 1610 Not found connect R/L/J component
+1193 1620 Not found connect R/L/J component
+1193 1632 Not found connect R/L/J component
+1193 1675 Not found connect R/L/J component
+1193 1679 Not found connect R/L/J component
+1194 1230 Not found connect R/L/J component
+1194 1288 Not found connect R/L/J component
+1194 1610 Not found connect R/L/J component
+1194 1620 Not found connect R/L/J component
+1194 1632 Not found connect R/L/J component
+1194 1675 Not found connect R/L/J component
+1194 1679 Not found connect R/L/J component
+1230 1288 Not found connect R/L/J component
+1230 1610 Not found connect R/L/J component
+1230 1620 Not found connect R/L/J component
+1230 1632 Not found connect R/L/J component
+1230 1675 Not found connect R/L/J component
+1230 1679 Not found connect R/L/J component
+1288 1610 Not found connect R/L/J component
+1288 1620 Not found connect R/L/J component
+1288 1632 Not found connect R/L/J component
+1288 1675 Not found connect R/L/J component
+1288 1679 Not found connect R/L/J component
+1610 1620 Not found connect R/L/J component
+1610 1632 Not found connect R/L/J component
+1610 1675 Not found connect R/L/J component
+1610 1679 FIND Step  57 (L) L8101   4.7uH 
+1620 1632 FIND Step 827 (R) R8407  10.0   
+1620 1675 FIND Step 594 (J) JP8401_1_2   1.0   
+1620 1679 Not found connect R/L/J component
+1632 1675 Not found connect R/L/J component
+1632 1679 Not found connect R/L/J component
+1675 1679 FIND Step 575 (J) JP8103_1_2   1.0   
+Absolute alone nail 1014 Insert resistore step for Nail 84 and 1014
+
+Group 21   
+85   162  225  668  749  882  883  1185 1289 1577 
+85   162  FIND Step 615 (J) L2902   1.0   
+85   225  FIND Step 609 (J) L2606   1.0   
+85   668  Not found connect R/L/J component
+85   749  Not found connect R/L/J component
+85   882  Not found connect R/L/J component
+85   883  FIND Step 692 (J) C7603   1.0   
+85   1185 FIND Step 729 (J) R2611   1.0   
+85   1289 FIND Step 555 (J) JP2702_1_2   1.0   
+85   1577 FIND Step 563 (J) JP3601_1_2   1.0   
+162  225  Not found connect R/L/J component
+162  668  Not found connect R/L/J component
+162  749  Not found connect R/L/J component
+162  882  Not found connect R/L/J component
+162  883  Not found connect R/L/J component
+162  1185 Not found connect R/L/J component
+162  1289 Not found connect R/L/J component
+162  1577 Not found connect R/L/J component
+225  668  Not found connect R/L/J component
+225  749  Not found connect R/L/J component
+225  882  Not found connect R/L/J component
+225  883  Not found connect R/L/J component
+225  1185 Not found connect R/L/J component
+225  1289 Not found connect R/L/J component
+225  1577 Not found connect R/L/J component
+668  749  FIND Step 796 (J) L7206   1.0   
+668  882  Not found connect R/L/J component
+668  883  FIND Step 773 (J) R7607   1.0   
+668  1185 Not found connect R/L/J component
+668  1289 Not found connect R/L/J component
+668  1577 Not found connect R/L/J component
+749  882  Not found connect R/L/J component
+749  883  Not found connect R/L/J component
+749  1185 Not found connect R/L/J component
+749  1289 Not found connect R/L/J component
+749  1577 Not found connect R/L/J component
+882  883  Not found connect R/L/J component
+882  1185 Not found connect R/L/J component
+882  1289 Not found connect R/L/J component
+882  1577 Not found connect R/L/J component
+883  1185 Not found connect R/L/J component
+883  1289 Not found connect R/L/J component
+883  1577 Not found connect R/L/J component
+1185 1289 Not found connect R/L/J component
+1185 1577 Not found connect R/L/J component
+1289 1577 Not found connect R/L/J component
+Absolute alone nail 882 Insert resistore step for Nail 85 and 882
+
+Group 22   
+87   91   108  952  
+87   91   Not found connect R/L/J component
+87   108  FIND Step 745 (J) R2851   1.0   
+87   952  FIND Step 751 (J) R3008   1.0   
+91   108  FIND Step 838 (R) R2823  15.0   
+91   952  Not found connect R/L/J component
+108  952  Not found connect R/L/J component
+
+Group 23   
+88   92   114  945  951  
+88   92   FIND Step 839 (R) R2849  15.0   
+88   114  Not found connect R/L/J component
+88   945  FIND Step 749 (J) R3002   1.0   
+88   951  Not found connect R/L/J component
+92   114  FIND Step 837 (R) R2032  15.0   
+92   945  Not found connect R/L/J component
+92   951  Not found connect R/L/J component
+114  945  Not found connect R/L/J component
+114  951  Not found connect R/L/J component
+945  951  FIND Step 842 (R) R3007  15.0   
+
+Group 24   
+90   939  1144 1601 
+90   939  FIND Step 752 (J) R3011   1.0   
+90   1144 FIND Step 746 (J) R2852   1.0   
+90   1601 Not found connect R/L/J component
+939  1144 Not found connect R/L/J component
+939  1601 FIND Step 840 (R) R3003  15.0   
+1144 1601 Not found connect R/L/J component
+
+Group 25   
+93   941  1143 1602 
+93   941  FIND Step 750 (J) R3004   1.0   
+93   1143 FIND Step 744 (J) R2850   1.0   
+93   1602 Not found connect R/L/J component
+941  1143 Not found connect R/L/J component
+941  1602 FIND Step 841 (R) R3006  15.0   
+1143 1602 Not found connect R/L/J component
+
+Group 26   
+96   98   256  257  258  259  794  861  1002 1157 1174 1175 1177 1264 1548 
+1549 1617 
+96   98   FIND Step 555 (J) JP2603_1_2   1.0   
+96   256  FIND Step 614 (J) L2706   1.0   
+96   257  FIND Step 615 (J) L2707   1.0   
+96   258  FIND Step 554 (J) JP2602_1_2   1.0   
+96   259  Not found connect R/L/J component
+96   794  Not found connect R/L/J component
+96   861  FIND Step 553 (J) JP2601_1_2   1.0   
+96   1002 Not found connect R/L/J component
+96   1157 Not found connect R/L/J component
+96   1174 Not found connect R/L/J component
+96   1175 Not found connect R/L/J component
+96   1177 Not found connect R/L/J component
+96   1264 Not found connect R/L/J component
+96   1548 Not found connect R/L/J component
+96   1549 Not found connect R/L/J component
+96   1617 Not found connect R/L/J component
+98   256  Not found connect R/L/J component
+98   257  Not found connect R/L/J component
+98   258  Not found connect R/L/J component
+98   259  Not found connect R/L/J component
+98   794  Not found connect R/L/J component
+98   861  Not found connect R/L/J component
+98   1002 Not found connect R/L/J component
+98   1157 Not found connect R/L/J component
+98   1174 FIND Step 729 (J) R2606   1.0   
+98   1175 FIND Step 728 (J) R2602   1.0   
+98   1177 Not found connect R/L/J component
+98   1264 Not found connect R/L/J component
+98   1548 Not found connect R/L/J component
+98   1549 Not found connect R/L/J component
+98   1617 Not found connect R/L/J component
+256  257  Not found connect R/L/J component
+256  258  Not found connect R/L/J component
+256  259  Not found connect R/L/J component
+256  794  Not found connect R/L/J component
+256  861  Not found connect R/L/J component
+256  1002 Not found connect R/L/J component
+256  1157 Not found connect R/L/J component
+256  1174 Not found connect R/L/J component
+256  1175 Not found connect R/L/J component
+256  1177 Not found connect R/L/J component
+256  1264 Not found connect R/L/J component
+256  1548 Not found connect R/L/J component
+256  1549 Not found connect R/L/J component
+256  1617 Not found connect R/L/J component
+257  258  Not found connect R/L/J component
+257  259  Not found connect R/L/J component
+257  794  Not found connect R/L/J component
+257  861  Not found connect R/L/J component
+257  1002 Not found connect R/L/J component
+257  1157 Not found connect R/L/J component
+257  1174 Not found connect R/L/J component
+257  1175 Not found connect R/L/J component
+257  1177 Not found connect R/L/J component
+257  1264 Not found connect R/L/J component
+257  1548 Not found connect R/L/J component
+257  1549 Not found connect R/L/J component
+257  1617 Not found connect R/L/J component
+258  259  Not found connect R/L/J component
+258  794  Not found connect R/L/J component
+258  861  Not found connect R/L/J component
+258  1002 Not found connect R/L/J component
+258  1157 Not found connect R/L/J component
+258  1174 Not found connect R/L/J component
+258  1175 Not found connect R/L/J component
+258  1177 Not found connect R/L/J component
+258  1264 Not found connect R/L/J component
+258  1548 Not found connect R/L/J component
+258  1549 Not found connect R/L/J component
+258  1617 Not found connect R/L/J component
+259  794  Not found connect R/L/J component
+259  861  FIND Step 559 (J) JP2706_1_2   1.0   
+259  1002 Not found connect R/L/J component
+259  1157 Not found connect R/L/J component
+259  1174 Not found connect R/L/J component
+259  1175 Not found connect R/L/J component
+259  1177 Not found connect R/L/J component
+259  1264 Not found connect R/L/J component
+259  1548 Not found connect R/L/J component
+259  1549 Not found connect R/L/J component
+259  1617 Not found connect R/L/J component
+794  861  Not found connect R/L/J component
+794  1002 Not found connect R/L/J component
+794  1157 Not found connect R/L/J component
+794  1174 Not found connect R/L/J component
+794  1175 Not found connect R/L/J component
+794  1177 Not found connect R/L/J component
+794  1264 FIND Step 617 (J) L2903   1.0   
+794  1548 Not found connect R/L/J component
+794  1549 FIND Step 588 (J) JP8201_1_2   1.0   
+794  1617 Not found connect R/L/J component
+861  1002 Not found connect R/L/J component
+861  1157 FIND Step 732 (J) R2614   1.0   
+861  1174 Not found connect R/L/J component
+861  1175 Not found connect R/L/J component
+861  1177 Not found connect R/L/J component
+861  1264 Not found connect R/L/J component
+861  1548 Not found connect R/L/J component
+861  1549 FIND Step 591 (J) JP8204_1_2   1.0   
+861  1617 Not found connect R/L/J component
+1002 1157 Not found connect R/L/J component
+1002 1174 Not found connect R/L/J component
+1002 1175 Not found connect R/L/J component
+1002 1177 Not found connect R/L/J component
+1002 1264 Not found connect R/L/J component
+1002 1548 Not found connect R/L/J component
+1002 1549 Not found connect R/L/J component
+1002 1617 Not found connect R/L/J component
+1157 1174 Not found connect R/L/J component
+1157 1175 Not found connect R/L/J component
+1157 1177 Not found connect R/L/J component
+1157 1264 Not found connect R/L/J component
+1157 1548 Not found connect R/L/J component
+1157 1549 Not found connect R/L/J component
+1157 1617 Not found connect R/L/J component
+1174 1175 Not found connect R/L/J component
+1174 1177 Not found connect R/L/J component
+1174 1264 Not found connect R/L/J component
+1174 1548 Not found connect R/L/J component
+1174 1549 Not found connect R/L/J component
+1174 1617 Not found connect R/L/J component
+1175 1177 Not found connect R/L/J component
+1175 1264 Not found connect R/L/J component
+1175 1548 Not found connect R/L/J component
+1175 1549 Not found connect R/L/J component
+1175 1617 Not found connect R/L/J component
+1177 1264 Not found connect R/L/J component
+1177 1548 Not found connect R/L/J component
+1177 1549 Not found connect R/L/J component
+1177 1617 Not found connect R/L/J component
+1264 1548 Not found connect R/L/J component
+1264 1549 Not found connect R/L/J component
+1264 1617 Not found connect R/L/J component
+1548 1549 FIND Step 677 (J) L8201   1.0   
+1548 1617 Not found connect R/L/J component
+1549 1617 Not found connect R/L/J component
+Absolute alone nail 1002 Insert resistore step for Nail 96 and 1002
+Absolute alone nail 1177 Insert resistore step for Nail 96 and 1177
+Absolute alone nail 1617 Insert resistore step for Nail 96 and 1617
+
+Group 27   
+104  501  1402 
+104  501  FIND Step 728 (J) R2502   1.0   
+104  1402 Not found connect R/L/J component
+501  1402 Not found connect R/L/J component
+Absolute alone nail 1402 Insert resistore step for Nail 104 and 1402
+
+Group 28   
+137  171  
+137  171  FIND Step 721 (J) R2219   1.0   
+
+Group 29   
+156  1257 
+156  1257 FIND Step 814 (J) RN2902-3-4   1.0   
+
+Group 30   
+160  161  
+160  161  FIND Step 752 (J) R2906   1.0   
+
+Group 31   
+185  522  
+185  522  FIND Step 700 (J) R0325   1.0   
+
+Group 32   
+186  503  
+186  503  Not found connect R/L/J component
+Absolute alone nail 186 Insert resistore step for Nail 186 and 503
+
+Group 33   
+217  298  448  
+217  298  FIND Step 708 (J) R1801   1.0   
+217  448  FIND Step 709 (J) R1802   1.0   
+298  448  Not found connect R/L/J component
+
+Group 34   
+222  1266 
+222  1266 FIND Step 851 (R) R2407  22.0   
+
+Group 35   
+223  1275 
+223  1275 FIND Step 850 (R) R2401  22.0   
+
+Group 36   
+224  308  
+224  308  Not found connect R/L/J component
+Absolute alone nail 224 Insert resistore step for Nail 224 and 308
+
+Group 37   
+253  1301 
+253  1301 FIND Step 714 (J) R2111   1.0   
+
+Group 38   
+255  1267 
+255  1267 FIND Step 717 (J) R2139   1.0   
+
+Group 39   
+280  434  447  
+280  434  Not found connect R/L/J component
+280  447  FIND Step 712 (J) R1804   1.0   
+434  447  FIND Step 711 (J) R1803   1.0   
+
+Group 40   
+301  1281 
+301  1281 FIND Step 729 (J) R2415   1.0   
+
+Group 41   
+303  615  
+303  615  FIND Step 766 (J) R3503   1.0   
+
+Group 42   
+309  1134 
+309  1134 Not found connect R/L/J component
+Absolute alone nail 309 Insert resistore step for Nail 309 and 1134
+
+Group 43   
+319  1089 
+319  1089 FIND Step 627 (J) L4503   1.0   
+
+Group 44   
+353  355  628  648  658  669  676  744  747  748  750  751  752  753  757  
+759  1431 1432 1433 1434 1435 
+353  355  FIND Step 638 (J) L7610   1.0   
+353  628  Not found connect R/L/J component
+353  648  Not found connect R/L/J component
+353  658  Not found connect R/L/J component
+353  669  Not found connect R/L/J component
+353  676  Not found connect R/L/J component
+353  744  Not found connect R/L/J component
+353  747  Not found connect R/L/J component
+353  748  Not found connect R/L/J component
+353  750  Not found connect R/L/J component
+353  751  Not found connect R/L/J component
+353  752  Not found connect R/L/J component
+353  753  Not found connect R/L/J component
+353  757  Not found connect R/L/J component
+353  759  Not found connect R/L/J component
+353  1431 Not found connect R/L/J component
+353  1432 Not found connect R/L/J component
+353  1433 Not found connect R/L/J component
+353  1434 Not found connect R/L/J component
+353  1435 Not found connect R/L/J component
+355  628  FIND Step 651 (J) L7710   1.0   
+355  648  FIND Step 637 (J) L7609   1.0   
+355  658  FIND Step 701 (J) C7604   1.0   
+355  669  FIND Step 699 (J) C7601   1.0   
+355  676  FIND Step 805 (J) L7207   1.0   
+355  744  FIND Step 782 (J) R7609   1.0   
+355  747  FIND Step 635 (J) L7607   1.0   
+355  748  FIND Step 630 (J) L7202   1.0   
+355  750  FIND Step 631 (J) L7203   1.0   
+355  751  FIND Step 806 (J) L7208   1.0   
+355  752  FIND Step 784 (J) R7730   1.0   
+355  753  FIND Step 643 (J) L7701   1.0   
+355  757  FIND Step 648 (J) L7707   1.0   
+355  759  FIND Step 629 (J) L7201   1.0   
+355  1431 FIND Step 649 (J) L7708   1.0   
+355  1432 FIND Step 647 (J) L7706   1.0   
+355  1433 FIND Step 652 (J) L7711   1.0   
+355  1434 FIND Step 653 (J) L7712   1.0   
+355  1435 FIND Step 650 (J) L7709   1.0   
+628  648  Not found connect R/L/J component
+628  658  Not found connect R/L/J component
+628  669  Not found connect R/L/J component
+628  676  Not found connect R/L/J component
+628  744  Not found connect R/L/J component
+628  747  Not found connect R/L/J component
+628  748  Not found connect R/L/J component
+628  750  Not found connect R/L/J component
+628  751  Not found connect R/L/J component
+628  752  Not found connect R/L/J component
+628  753  Not found connect R/L/J component
+628  757  Not found connect R/L/J component
+628  759  Not found connect R/L/J component
+628  1431 Not found connect R/L/J component
+628  1432 Not found connect R/L/J component
+628  1433 Not found connect R/L/J component
+628  1434 Not found connect R/L/J component
+628  1435 Not found connect R/L/J component
+648  658  Not found connect R/L/J component
+648  669  Not found connect R/L/J component
+648  676  Not found connect R/L/J component
+648  744  Not found connect R/L/J component
+648  747  Not found connect R/L/J component
+648  748  Not found connect R/L/J component
+648  750  Not found connect R/L/J component
+648  751  Not found connect R/L/J component
+648  752  Not found connect R/L/J component
+648  753  Not found connect R/L/J component
+648  757  Not found connect R/L/J component
+648  759  Not found connect R/L/J component
+648  1431 Not found connect R/L/J component
+648  1432 Not found connect R/L/J component
+648  1433 Not found connect R/L/J component
+648  1434 Not found connect R/L/J component
+648  1435 Not found connect R/L/J component
+658  669  Not found connect R/L/J component
+658  676  Not found connect R/L/J component
+658  744  Not found connect R/L/J component
+658  747  Not found connect R/L/J component
+658  748  Not found connect R/L/J component
+658  750  Not found connect R/L/J component
+658  751  Not found connect R/L/J component
+658  752  Not found connect R/L/J component
+658  753  Not found connect R/L/J component
+658  757  Not found connect R/L/J component
+658  759  Not found connect R/L/J component
+658  1431 Not found connect R/L/J component
+658  1432 Not found connect R/L/J component
+658  1433 Not found connect R/L/J component
+658  1434 Not found connect R/L/J component
+658  1435 Not found connect R/L/J component
+669  676  Not found connect R/L/J component
+669  744  Not found connect R/L/J component
+669  747  Not found connect R/L/J component
+669  748  Not found connect R/L/J component
+669  750  Not found connect R/L/J component
+669  751  Not found connect R/L/J component
+669  752  Not found connect R/L/J component
+669  753  Not found connect R/L/J component
+669  757  Not found connect R/L/J component
+669  759  Not found connect R/L/J component
+669  1431 Not found connect R/L/J component
+669  1432 Not found connect R/L/J component
+669  1433 Not found connect R/L/J component
+669  1434 Not found connect R/L/J component
+669  1435 Not found connect R/L/J component
+676  744  Not found connect R/L/J component
+676  747  Not found connect R/L/J component
+676  748  Not found connect R/L/J component
+676  750  Not found connect R/L/J component
+676  751  Not found connect R/L/J component
+676  752  Not found connect R/L/J component
+676  753  Not found connect R/L/J component
+676  757  Not found connect R/L/J component
+676  759  Not found connect R/L/J component
+676  1431 Not found connect R/L/J component
+676  1432 Not found connect R/L/J component
+676  1433 Not found connect R/L/J component
+676  1434 Not found connect R/L/J component
+676  1435 Not found connect R/L/J component
+744  747  Not found connect R/L/J component
+744  748  Not found connect R/L/J component
+744  750  Not found connect R/L/J component
+744  751  Not found connect R/L/J component
+744  752  Not found connect R/L/J component
+744  753  Not found connect R/L/J component
+744  757  Not found connect R/L/J component
+744  759  Not found connect R/L/J component
+744  1431 Not found connect R/L/J component
+744  1432 Not found connect R/L/J component
+744  1433 Not found connect R/L/J component
+744  1434 Not found connect R/L/J component
+744  1435 Not found connect R/L/J component
+747  748  Not found connect R/L/J component
+747  750  Not found connect R/L/J component
+747  751  Not found connect R/L/J component
+747  752  Not found connect R/L/J component
+747  753  Not found connect R/L/J component
+747  757  Not found connect R/L/J component
+747  759  Not found connect R/L/J component
+747  1431 Not found connect R/L/J component
+747  1432 Not found connect R/L/J component
+747  1433 Not found connect R/L/J component
+747  1434 Not found connect R/L/J component
+747  1435 Not found connect R/L/J component
+748  750  Not found connect R/L/J component
+748  751  Not found connect R/L/J component
+748  752  Not found connect R/L/J component
+748  753  Not found connect R/L/J component
+748  757  Not found connect R/L/J component
+748  759  Not found connect R/L/J component
+748  1431 Not found connect R/L/J component
+748  1432 Not found connect R/L/J component
+748  1433 Not found connect R/L/J component
+748  1434 Not found connect R/L/J component
+748  1435 Not found connect R/L/J component
+750  751  Not found connect R/L/J component
+750  752  Not found connect R/L/J component
+750  753  Not found connect R/L/J component
+750  757  Not found connect R/L/J component
+750  759  Not found connect R/L/J component
+750  1431 Not found connect R/L/J component
+750  1432 Not found connect R/L/J component
+750  1433 Not found connect R/L/J component
+750  1434 Not found connect R/L/J component
+750  1435 Not found connect R/L/J component
+751  752  Not found connect R/L/J component
+751  753  Not found connect R/L/J component
+751  757  Not found connect R/L/J component
+751  759  Not found connect R/L/J component
+751  1431 Not found connect R/L/J component
+751  1432 Not found connect R/L/J component
+751  1433 Not found connect R/L/J component
+751  1434 Not found connect R/L/J component
+751  1435 Not found connect R/L/J component
+752  753  Not found connect R/L/J component
+752  757  Not found connect R/L/J component
+752  759  Not found connect R/L/J component
+752  1431 Not found connect R/L/J component
+752  1432 Not found connect R/L/J component
+752  1433 Not found connect R/L/J component
+752  1434 Not found connect R/L/J component
+752  1435 Not found connect R/L/J component
+753  757  Not found connect R/L/J component
+753  759  Not found connect R/L/J component
+753  1431 Not found connect R/L/J component
+753  1432 Not found connect R/L/J component
+753  1433 Not found connect R/L/J component
+753  1434 Not found connect R/L/J component
+753  1435 Not found connect R/L/J component
+757  759  Not found connect R/L/J component
+757  1431 Not found connect R/L/J component
+757  1432 Not found connect R/L/J component
+757  1433 Not found connect R/L/J component
+757  1434 Not found connect R/L/J component
+757  1435 Not found connect R/L/J component
+759  1431 Not found connect R/L/J component
+759  1432 Not found connect R/L/J component
+759  1433 Not found connect R/L/J component
+759  1434 Not found connect R/L/J component
+759  1435 Not found connect R/L/J component
+1431 1432 Not found connect R/L/J component
+1431 1433 Not found connect R/L/J component
+1431 1434 Not found connect R/L/J component
+1431 1435 Not found connect R/L/J component
+1432 1433 Not found connect R/L/J component
+1432 1434 Not found connect R/L/J component
+1432 1435 Not found connect R/L/J component
+1433 1434 Not found connect R/L/J component
+1433 1435 Not found connect R/L/J component
+1434 1435 Not found connect R/L/J component
+
+Group 45   
+356  953  
+356  953  Not found connect R/L/J component
+Absolute alone nail 356 Insert resistore step for Nail 356 and 953
+
+Group 46   
+359  954  
+359  954  Not found connect R/L/J component
+Absolute alone nail 359 Insert resistore step for Nail 359 and 954
+
+Group 47   
+478  553  
+478  553  Not found connect R/L/J component
+Absolute alone nail 478 Insert resistore step for Nail 478 and 553
+
+Group 48   
+490  507  
+490  507  Not found connect R/L/J component
+Absolute alone nail 490 Insert resistore step for Nail 490 and 507
+
+Group 49   
+491  539  814  
+491  539  Not found connect R/L/J component
+491  814  Not found connect R/L/J component
+539  814  Not found connect R/L/J component
+Absolute alone nail 491 Insert resistore step for Nail 491 and 539
+Absolute alone nail 814 Insert resistore step for Nail 491 and 814
+
+Group 50   
+497  509  
+497  509  FIND Step 803 (J) R8307   1.0   
+
+Group 51   
+499  801  
+499  801  Not found connect R/L/J component
+Absolute alone nail 499 Insert resistore step for Nail 499 and 801
+
+Group 52   
+512  874  996  1005 1198 1553 1554 1613 
+512  874  Not found connect R/L/J component
+512  996  Not found connect R/L/J component
+512  1005 Not found connect R/L/J component
+512  1198 Not found connect R/L/J component
+512  1553 FIND Step 842 (R) R8306  10.0   
+512  1554 Not found connect R/L/J component
+512  1613 Not found connect R/L/J component
+874  996  Not found connect R/L/J component
+874  1005 Not found connect R/L/J component
+874  1198 Not found connect R/L/J component
+874  1553 FIND Step 844 (R) R8505  10.0   
+874  1554 Not found connect R/L/J component
+874  1613 Not found connect R/L/J component
+996  1005 Not found connect R/L/J component
+996  1198 Not found connect R/L/J component
+996  1553 FIND Step 841 (R) R8203  10.0   
+996  1554 Not found connect R/L/J component
+996  1613 Not found connect R/L/J component
+1005 1198 Not found connect R/L/J component
+1005 1553 Not found connect R/L/J component
+1005 1554 Not found connect R/L/J component
+1005 1613 Not found connect R/L/J component
+1198 1553 FIND Step 572 (J) JP2704_1_2   1.0   
+1198 1554 Not found connect R/L/J component
+1198 1613 Not found connect R/L/J component
+1553 1554 FIND Step 592 (J) JP8104_1_2   1.0   
+1553 1613 Not found connect R/L/J component
+1554 1613 FIND Step  74 (L) L8102   4.7uH 
+Absolute alone nail 1005 Insert resistore step for Nail 512 and 1005
+
+Group 53   
+591  1138 
+591  1138 Not found connect R/L/J component
+Absolute alone nail 591 Insert resistore step for Nail 591 and 1138
+
+Group 54   
+607  612  
+607  612  FIND Step 591 (J) JP7203_1_2   1.0   
+
+Group 55   
+608  611  
+608  611  FIND Step 590 (J) JP7202_1_2   1.0   
+
+Group 56   
+609  610  
+609  610  FIND Step 589 (J) JP7201_1_2   1.0   
+
+Group 57   
+623  701  754  755  758  918  1429 1439 1440 
+623  701  Not found connect R/L/J component
+623  754  Not found connect R/L/J component
+623  755  Not found connect R/L/J component
+623  758  Not found connect R/L/J component
+623  918  Not found connect R/L/J component
+623  1429 Not found connect R/L/J component
+623  1439 FIND Step 650 (J) L7613   1.0   
+623  1440 Not found connect R/L/J component
+701  754  Not found connect R/L/J component
+701  755  Not found connect R/L/J component
+701  758  Not found connect R/L/J component
+701  918  Not found connect R/L/J component
+701  1429 Not found connect R/L/J component
+701  1439 FIND Step 648 (J) L7611   1.0   
+701  1440 Not found connect R/L/J component
+754  755  Not found connect R/L/J component
+754  758  Not found connect R/L/J component
+754  918  Not found connect R/L/J component
+754  1429 Not found connect R/L/J component
+754  1439 FIND Step 792 (J) R7729   1.0   
+754  1440 Not found connect R/L/J component
+755  758  Not found connect R/L/J component
+755  918  Not found connect R/L/J component
+755  1429 Not found connect R/L/J component
+755  1439 FIND Step 653 (J) L7702   1.0   
+755  1440 Not found connect R/L/J component
+758  918  Not found connect R/L/J component
+758  1429 Not found connect R/L/J component
+758  1439 FIND Step 655 (J) L7704   1.0   
+758  1440 Not found connect R/L/J component
+918  1429 Not found connect R/L/J component
+918  1439 FIND Step 620 (J) JP8701_1_2   1.0   
+918  1440 Not found connect R/L/J component
+1429 1439 FIND Step 654 (J) L7703   1.0   
+1429 1440 Not found connect R/L/J component
+1439 1440 FIND Step 663 (J) L7713   1.0   
+
+Group 58   
+631  1268 
+631  1268 FIND Step 816 (J) L7210   1.0   
+
+Group 59   
+703  1331 
+703  1331 Not found connect R/L/J component
+Absolute alone nail 703 Insert resistore step for Nail 703 and 1331
+
+Group 60   
+811  1663 
+811  1663 FIND Step 820 (J) RN0601-5-6   1.0   
+
+Group 61   
+812  1664 
+812  1664 FIND Step 818 (J) RN0601-1-2   1.0   
+
+Group 62   
+819  820  
+819  820  FIND Step 819 (J) RN0601-3-4   1.0   
+
+Group 63   
+830  1522 
+830  1522 FIND Step 825 (J) RN0602-7-8   1.0   
+
+Group 64   
+852  938  
+852  938  Not found connect R/L/J component
+Absolute alone nail 852 Insert resistore step for Nail 852 and 938
+
+Group 65   
+853  1398 
+853  1398 FIND Step 720 (J) R0612   1.0   
+
+Group 66   
+854  935  
+854  935  FIND Step 773 (J) R3016   1.0   
+
+Group 67   
+856  858  
+856  858  FIND Step 805 (J) R8206   1.0   
+
+Group 68   
+875  1046 
+875  1046 FIND Step 600 (J) JP8109_1_2   1.0   
+
+Group 69   
+879  880  
+879  880  FIND Step 809 (J) R8507   1.0   
+
+Group 70   
+894  1058 1401 
+894  1058 FIND Step 777 (J) R3208   1.0   
+894  1401 Not found connect R/L/J component
+1058 1401 FIND Step 776 (J) R3207   1.0   
+
+Group 71   
+905  1053 
+905  1053 FIND Step 787 (J) R6008   1.0   
+
+Group 72   
+924  1580 
+924  1580 FIND Step 709 (J) R3704   1.0   
+
+Group 73   
+932  1560 
+932  1560 FIND Step 771 (J) R3012   1.0   
+
+Group 74   
+937  1027 
+937  1027 Not found connect R/L/J component
+Absolute alone nail 937 Insert resistore step for Nail 937 and 1027
+
+Group 75   
+940  1583 
+940  1583 FIND Step 707 (J) R3701   1.0   
+
+Group 76   
+960  969  
+960  969  FIND Step 773 (J) R3013   1.0   
+
+Group 77   
+987  992  993  1393 1626 
+987  992  Not found connect R/L/J component
+987  993  Not found connect R/L/J component
+987  1393 Not found connect R/L/J component
+987  1626 FIND Step 787 (J) R6005   1.0   
+992  993  FIND Step 808 (J) R8211   1.0   
+992  1393 Not found connect R/L/J component
+992  1626 Not found connect R/L/J component
+993  1393 Not found connect R/L/J component
+993  1626 FIND Step 807 (J) R8209   1.0   
+1393 1626 Not found connect R/L/J component
+Absolute alone nail 1393 Insert resistore step for Nail 987 and 1393
+
+Group 78   
+989  1011 
+989  1011 FIND Step 802 (J) R8108   1.0   
+
+Group 79   
+990  1009 
+990  1009 FIND Step 804 (J) R8115   1.0   
+
+Group 80   
+991  1592 1623 
+991  1592 Not found connect R/L/J component
+991  1623 Not found connect R/L/J component
+1592 1623 FIND Step 777 (J) R3205   1.0   
+Absolute alone nail 991 Insert resistore step for Nail 991 and 1592
+
+Group 81   
+1003 1004 1017 
+1003 1004 FIND Step 601 (J) JP8106_1_2   1.0   
+1003 1017 Not found connect R/L/J component
+1004 1017 FIND Step 847 (R) R8119  10.0   
+
+Group 82   
+1012 1013 1627 
+1012 1013 FIND Step 806 (J) R8125   1.0   
+1012 1627 FIND Step 807 (J) R8130   1.0   
+1013 1627 Not found connect R/L/J component
+
+Group 83   
+1023 1662 
+1023 1662 FIND Step 802 (J) R8053   1.0   
+
+Group 84   
+1032 1641 
+1032 1641 FIND Step 800 (J) R8028   1.0   
+
+Group 85   
+1034 1640 
+1034 1640 FIND Step 799 (J) R8016   1.0   
+
+Group 86   
+1041 1221 
+1041 1221 FIND Step 747 (J) R2504   1.0   
+
+Group 87   
+1090 1107 
+1090 1107 FIND Step 690 (J) L4501   1.0   
+
+Group 88   
+1094 1102 
+1094 1102 FIND Step 835 (J) RNX4501-3-4   1.0   
+
+Group 89   
+1126 1411 
+1126 1411 Not found connect R/L/J component
+Absolute alone nail 1126 Insert resistore step for Nail 1126 and 1411
+
+Group 90   
+1137 1410 
+1137 1410 Not found connect R/L/J component
+Absolute alone nail 1137 Insert resistore step for Nail 1137 and 1410
+
+Group 91   
+1139 1231 
+1139 1231 FIND Step 819 (J) RX2116   1.0   
+
+Group 92   
+1172 1173 1235 1545 1546 1629 1650 
+1172 1173 FIND Step 757 (J) R2617   1.0   
+1172 1235 Not found connect R/L/J component
+1172 1545 Not found connect R/L/J component
+1172 1546 FIND Step 759 (J) R2620   1.0   
+1172 1629 Not found connect R/L/J component
+1172 1650 Not found connect R/L/J component
+1173 1235 Not found connect R/L/J component
+1173 1545 Not found connect R/L/J component
+1173 1546 Not found connect R/L/J component
+1173 1629 Not found connect R/L/J component
+1173 1650 Not found connect R/L/J component
+1235 1545 Not found connect R/L/J component
+1235 1546 FIND Step 760 (J) R2621   1.0   
+1235 1629 Not found connect R/L/J component
+1235 1650 Not found connect R/L/J component
+1545 1546 FIND Step 620 (J) JP8402_1_2   1.0   
+1545 1629 Not found connect R/L/J component
+1545 1650 FIND Step  85 (L) L8401   2.2uH 
+1546 1629 Not found connect R/L/J component
+1546 1650 Not found connect R/L/J component
+1629 1650 Not found connect R/L/J component
+Absolute alone nail 1629 Insert resistore step for Nail 1172 and 1629
+
+Group 93   
+1184 1313 
+1184 1313 Not found connect R/L/J component
+Absolute alone nail 1184 Insert resistore step for Nail 1184 and 1313
+
+Group 94   
+1186 1315 
+1186 1315 Not found connect R/L/J component
+Absolute alone nail 1186 Insert resistore step for Nail 1186 and 1315
+
+Group 95   
+1242 1244 
+1242 1244 FIND Step 745 (J) R2227   1.0   
+
+Group 96   
+1297 1311 
+1297 1311 FIND Step 740 (J) R2143   1.0   
+
+Group 97   
+1300 1307 
+1300 1307 FIND Step 736 (J) R2136   1.0   
+
+Group 98   
+1397 1533 
+1397 1533 FIND Step 727 (J) R0604   1.0   
+
+Group 99   
+1421 1422 
+1421 1422 FIND Step 797 (J) R7222   1.0   
+
+Group 100  
+1447 1448 
+1447 1448 FIND Step 598 (J) JP6803_1_2   1.0   
+
+Group 101  
+1453 1565 
+1453 1565 FIND Step 597 (J) JP6802_1_2   1.0   
+
+Group 102  
+1454 1570 
+1454 1570 FIND Step 596 (J) JP6801_1_2   1.0   
+
+Group 103  
+1514 1517 
+1514 1517 FIND Step 721 (J) R0315   1.0   
+
+Group 104  
+1526 1661 
+1526 1661 FIND Step 831 (J) RN0602-1-2   1.0   
+
+Group 105  
+1528 1666 
+1528 1666 FIND Step 806 (J) R8036   1.0   
+
+Group 106  
+1529 1532 
+1529 1532 FIND Step 846 (J) R8603   1.0   
+
+Group 107  
+1544 1657 
+1544 1657 FIND Step 843 (J) R8010   1.0   
+
+Group 108  
+1653 1654 
+1653 1654 FIND Step 844 (J) R8012   1.0   
+Not Found count = 2444

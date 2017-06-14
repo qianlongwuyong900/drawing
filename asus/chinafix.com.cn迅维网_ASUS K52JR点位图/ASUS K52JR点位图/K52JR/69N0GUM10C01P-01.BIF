@@ -1,0 +1,16 @@
+ManufactorID="";
+ProductID="";
+BoardID="";
+ModelNumber="";
+ModelVersion="";
+PCBNumber="";
+PCBVersion="";
+ProgramNumber="";
+ProgramVersion="";
+FixtureID="";
+UserFixtureID="0";
+PostFixtureID="";
+SiteNumber="";
+LeadFreeBarcode="";
+LineNo="";
+BoardVersion="";

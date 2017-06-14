@@ -1,0 +1,957 @@
+MDA Test Program transfer to ATM,  Date:11-12-2009  Time:10:23:11.
+
+Step 1031, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1032, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1033, change MODE=2, add OFFSET=0.6.
+Step 1034, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1035, change MODE=2, add OFFSET=0.6.
+Step 1036, change MODE=2, add OFFSET=0.6.
+Step 1037, change MODE=2, add OFFSET=0.6.
+Step 1038, change MODE=2, add OFFSET=0.6.
+Step 1039, change MODE=2, add OFFSET=0.6.
+Step 1040, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1041, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1042, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1043, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1044, change MODE=2, HIGH/LOW nail change, add OFFSET=0.6.
+Step 1045, change MODE=2, HIGH/LOW nail change.
+Step 1046, change MODE=2, HIGH/LOW nail change.
+Step 1047, change MODE=2.
+Step 1048, change MODE=2.
+Step 1049, change MODE=2.
+Step 1050, change MODE=2.
+Step 1051, change MODE=2, HIGH/LOW nail change.
+Step 1052, change MODE=2, HIGH/LOW nail change.
+Step 1053, change MODE=2.
+Step 1054, change MODE=2, HIGH/LOW nail change.
+Step 1055, change MODE=2, HIGH/LOW nail change.
+Step 1056, change MODE=2, HIGH/LOW nail change.
+Step 1057, change MODE=2.
+Step 1058, change MODE=2, HIGH/LOW nail change.
+Step 1059, change MODE=2.
+Step 1060, change MODE=2.
+Step 1061, change MODE=2, HIGH/LOW nail change.
+Step 1062, change MODE=2.
+Step 1063, change MODE=2.
+Step 1064, change MODE=2, HIGH/LOW nail change.
+Step 1065, change MODE=2, HIGH/LOW nail change.
+Step 1066, change MODE=2, HIGH/LOW nail change.
+Step 1067, change MODE=2.
+Step 1068, change MODE=2.
+Step 1069, change MODE=2.
+Step 1070, change MODE=2.
+Step 1071, change MODE=2, HIGH/LOW nail change.
+Step 1072, change MODE=2, HIGH/LOW nail change.
+Step 1073, change MODE=2, HIGH/LOW nail change.
+Step 1074, change MODE=2, HIGH/LOW nail change.
+Step 1075, change MODE=2, HIGH/LOW nail change.
+Step 1076, change MODE=2, HIGH/LOW nail change.
+Step 1077, change MODE=2.
+Step 1078, HIGH/LOW nail change.
+Step 1080, HIGH/LOW nail change.
+Step 1081, HIGH/LOW nail change.
+Step 1082, HIGH/LOW nail change.
+Step 1083, HIGH/LOW nail change.
+Step 1084, HIGH/LOW nail change.
+Step 1085, HIGH/LOW nail change.
+Step 1086, HIGH/LOW nail change.
+Step 1087, HIGH/LOW nail change.
+Step 1088, HIGH/LOW nail change.
+Step 1089, HIGH/LOW nail change.
+Step 1090, HIGH/LOW nail change.
+Step 1091, HIGH/LOW nail change.
+Step 1092, HIGH/LOW nail change.
+Step 1093, HIGH/LOW nail change.
+Step 1094, HIGH/LOW nail change.
+Step 1095, HIGH/LOW nail change.
+Step 1096, HIGH/LOW nail change.
+Step 1097, HIGH/LOW nail change.
+Step 1098, HIGH/LOW nail change.
+Step 1099, HIGH/LOW nail change.
+Step 1100, HIGH/LOW nail change.
+Step 1101, HIGH/LOW nail change.
+Step 1108, HIGH/LOW nail change.
+Step 1109, HIGH/LOW nail change.
+Step 1110, HIGH/LOW nail change.
+Step 1111, HIGH/LOW nail change.
+Step 1112, HIGH/LOW nail change.
+Step 1113, HIGH/LOW nail change.
+Step 1114, HIGH/LOW nail change.
+Step 1115, HIGH/LOW nail change.
+Step 1116, HIGH/LOW nail change.
+Step 1117, HIGH/LOW nail change.
+Step 1118, HIGH/LOW nail change.
+Step 1119, HIGH/LOW nail change.
+Step 1120, HIGH/LOW nail change.
+Step 1121, HIGH/LOW nail change.
+Step 1123, HIGH/LOW nail change.
+Step 1127, HIGH/LOW nail change.
+Step 1128, HIGH/LOW nail change.
+Step 1129, HIGH/LOW nail change.
+Step 1131, HIGH/LOW nail change.
+Step 1132, HIGH/LOW nail change.
+Step 1139, HIGH/LOW nail change.
+Step 1140, HIGH/LOW nail change.
+Step 1142, HIGH/LOW nail change.
+Step 1143, HIGH/LOW nail change.
+Step 1144, HIGH/LOW nail change.
+Step 1145, HIGH/LOW nail change.
+Step 1146, HIGH/LOW nail change.
+Step 1147, HIGH/LOW nail change.
+Step 1148, HIGH/LOW nail change.
+Step 1149, HIGH/LOW nail change.
+Step 1150, HIGH/LOW nail change.
+Step 1160, HIGH/LOW nail change.
+Step 1184, HIGH/LOW nail change.
+Step 1185, HIGH/LOW nail change.
+Step 1187, HIGH/LOW nail change.
+Step 1188, HIGH/LOW nail change.
+Step 1190, HIGH/LOW nail change.
+Step 1192, HIGH/LOW nail change.
+Step 1193, HIGH/LOW nail change.
+Step 1194, HIGH/LOW nail change.
+Step 1197, HIGH/LOW nail change.
+Step 1198, HIGH/LOW nail change.
+Step 1199, HIGH/LOW nail change.
+Step 1201, HIGH/LOW nail change.
+Step 1202, HIGH/LOW nail change.
+Step 1204, HIGH/LOW nail change.
+Step 1205, HIGH/LOW nail change.
+Step 1206, HIGH/LOW nail change.
+Step 1207, HIGH/LOW nail change.
+Step 1209, HIGH/LOW nail change.
+Step 1210, HIGH/LOW nail change.
+Step 1212, HIGH/LOW nail change.
+Step 1213, HIGH/LOW nail change.
+Step 1215, HIGH/LOW nail change.
+Step 1220, HIGH/LOW nail change.
+Step 1222, HIGH/LOW nail change.
+Step 1223, HIGH/LOW nail change.
+Step 1224, HIGH/LOW nail change.
+Step 1226, HIGH/LOW nail change.
+Step 1228, HIGH/LOW nail change.
+Step 1231, HIGH/LOW nail change.
+Step 1234, HIGH/LOW nail change.
+Step 1235, HIGH/LOW nail change.
+Step 1236, HIGH/LOW nail change.
+Step 1238, HIGH/LOW nail change.
+Step 1240, HIGH/LOW nail change.
+Step 1241, HIGH/LOW nail change.
+Step 1242, HIGH/LOW nail change.
+Step 1243, HIGH/LOW nail change.
+Step 1244, HIGH/LOW nail change.
+Step 1245, HIGH/LOW nail change.
+Step 1246, HIGH/LOW nail change.
+Step 1247, HIGH/LOW nail change.
+Step 1248, HIGH/LOW nail change.
+Step 1252, HIGH/LOW nail change.
+Step 1253, HIGH/LOW nail change.
+Step 1254, HIGH/LOW nail change.
+Step 1255, HIGH/LOW nail change.
+Step 1256, HIGH/LOW nail change.
+Step 1257, HIGH/LOW nail change.
+Step 1258, HIGH/LOW nail change.
+Step 1259, HIGH/LOW nail change.
+Step 1260, HIGH/LOW nail change.
+Step 1261, HIGH/LOW nail change.
+Step 1262, HIGH/LOW nail change.
+Step 1263, HIGH/LOW nail change.
+Step 1265, HIGH/LOW nail change.
+Step 1266, HIGH/LOW nail change.
+Step 1267, HIGH/LOW nail change.
+Step 1280, HIGH/LOW nail change.
+Step 1281, HIGH/LOW nail change.
+Step 1282, HIGH/LOW nail change.
+Step 1283, HIGH/LOW nail change.
+Step 1284, HIGH/LOW nail change.
+Step 1285, HIGH/LOW nail change.
+Step 1290, HIGH/LOW nail change.
+Step 1292, HIGH/LOW nail change.
+Step 1295, HIGH/LOW nail change.
+Step 1296, HIGH/LOW nail change.
+Step 1298, HIGH/LOW nail change.
+Step 1301, HIGH/LOW nail change.
+Step 1303, HIGH/LOW nail change.
+Step 1307, HIGH/LOW nail change.
+Step 1308, HIGH/LOW nail change.
+Step 1309, HIGH/LOW nail change.
+Step 1310, HIGH/LOW nail change.
+Step 1311, HIGH/LOW nail change.
+Step 1312, HIGH/LOW nail change.
+Step 1313, HIGH/LOW nail change.
+Step 1314, HIGH/LOW nail change.
+Step 1317, HIGH/LOW nail change.
+Step 1318, HIGH/LOW nail change.
+Step 1319, HIGH/LOW nail change.
+Step 1320, HIGH/LOW nail change.
+Step 1321, HIGH/LOW nail change.
+Step 1322, HIGH/LOW nail change.
+Step 1323, HIGH/LOW nail change.
+Step 1324, HIGH/LOW nail change.
+Step 1325, HIGH/LOW nail change.
+Step 1326, HIGH/LOW nail change.
+Step 1327, HIGH/LOW nail change.
+Step 1328, HIGH/LOW nail change.
+Step 1329, HIGH/LOW nail change.
+Step 1330, HIGH/LOW nail change.
+Step 1331, HIGH/LOW nail change.
+Step 1332, HIGH/LOW nail change.
+Step 1333, HIGH/LOW nail change.
+Step 1334, HIGH/LOW nail change.
+Step 1338, HIGH/LOW nail change.
+Step 1339, HIGH/LOW nail change.
+Step 1340, HIGH/LOW nail change.
+Step 1350, HIGH/LOW nail change.
+Step 1353, HIGH/LOW nail change.
+Step 1355, HIGH/LOW nail change.
+Step 1356, HIGH/LOW nail change, set AVGE=1.
+Step 1358, HIGH/LOW nail change.
+Step 1359, HIGH/LOW nail change.
+Step 1361, HIGH/LOW nail change.
+Step 1364, HIGH/LOW nail change.
+Step 1365, HIGH/LOW nail change.
+Step 1366, HIGH/LOW nail change.
+Step 1368, HIGH/LOW nail change.
+Step 1369, HIGH/LOW nail change.
+Step 1370, HIGH/LOW nail change.
+Step 1371, HIGH/LOW nail change.
+Step 1374, HIGH/LOW nail change.
+Step 1377, HIGH/LOW nail change.
+Step 1379, HIGH/LOW nail change.
+Step 1384, HIGH/LOW nail change.
+Step 1385, HIGH/LOW nail change.
+Step 1388, HIGH/LOW nail change.
+Step 1389, HIGH/LOW nail change.
+Step 1390, HIGH/LOW nail change.
+Step 1391, HIGH/LOW nail change.
+Step 1392, HIGH/LOW nail change.
+Step 1395, HIGH/LOW nail change.
+Step 1399, HIGH/LOW nail change.
+Step 1400, HIGH/LOW nail change.
+Step 1413, HIGH/LOW nail change.
+Step 1416, HIGH/LOW nail change.
+Step 1417, HIGH/LOW nail change.
+Step 1418, HIGH/LOW nail change.
+Step 1419, HIGH/LOW nail change.
+Step 1421, HIGH/LOW nail change.
+Step 1426, HIGH/LOW nail change.
+Step 1432, HIGH/LOW nail change.
+Step 1435, HIGH/LOW nail change.
+Step 1438, HIGH/LOW nail change.
+Step 1439, HIGH/LOW nail change.
+Step 1441, HIGH/LOW nail change.
+Step 1443, HIGH/LOW nail change.
+Step 1445, HIGH/LOW nail change.
+Step 1448, HIGH/LOW nail change.
+Step 1449, HIGH/LOW nail change.
+Step 1450, HIGH/LOW nail change.
+Step 1451, HIGH/LOW nail change.
+Step 1457, HIGH/LOW nail change.
+Step 1459, HIGH/LOW nail change.
+Step 1460, HIGH/LOW nail change.
+Step 1461, HIGH/LOW nail change.
+Step 1464, HIGH/LOW nail change.
+Step 1465, HIGH/LOW nail change.
+Step 1466, HIGH/LOW nail change.
+Step 1467, HIGH/LOW nail change.
+Step 1469, HIGH/LOW nail change.
+Step 1478, HIGH/LOW nail change.
+Step 1480, HIGH/LOW nail change.
+Step 1482, HIGH/LOW nail change.
+Step 1485, HIGH/LOW nail change.
+Step 1486, HIGH/LOW nail change.
+Step 1487, HIGH/LOW nail change.
+Step 1488, HIGH/LOW nail change.
+Step 1494, HIGH/LOW nail change.
+Step 1501, HIGH/LOW nail change.
+Step 1502, HIGH/LOW nail change.
+Step 1503, HIGH/LOW nail change.
+Step 1504, HIGH/LOW nail change.
+Step 1505, HIGH/LOW nail change.
+Step 1506, HIGH/LOW nail change.
+Step 1507, HIGH/LOW nail change.
+Step 1512, HIGH/LOW nail change.
+Step 1513, HIGH/LOW nail change.
+Step 1515, HIGH/LOW nail change.
+Step 1516, HIGH/LOW nail change.
+Step 1517, HIGH/LOW nail change.
+Step 1518, HIGH/LOW nail change.
+Step 1519, HIGH/LOW nail change.
+Step 1520, HIGH/LOW nail change.
+Step 1521, HIGH/LOW nail change.
+Step 1523, HIGH/LOW nail change.
+Step 1526, HIGH/LOW nail change.
+Step 1527, HIGH/LOW nail change.
+Step 1528, HIGH/LOW nail change.
+Step 1531, HIGH/LOW nail change.
+Step 1532, HIGH/LOW nail change.
+Step 1533, HIGH/LOW nail change.
+Step 1535, HIGH/LOW nail change.
+Step 1536, HIGH/LOW nail change.
+Step 1537, HIGH/LOW nail change.
+Step 1538, HIGH/LOW nail change.
+Step 1539, HIGH/LOW nail change.
+Step 1541, HIGH/LOW nail change.
+Step 1545, HIGH/LOW nail change.
+Step 1547, HIGH/LOW nail change.
+Step 1548, HIGH/LOW nail change.
+Step 1549, HIGH/LOW nail change.
+Step 1551, HIGH/LOW nail change.
+Step 1552, HIGH/LOW nail change.
+Step 1554, HIGH/LOW nail change.
+Step 1555, HIGH/LOW nail change.
+Step 1560, HIGH/LOW nail change.
+Step 1561, HIGH/LOW nail change.
+Step 1562, HIGH/LOW nail change.
+Step 1563, HIGH/LOW nail change.
+Step 1564, HIGH/LOW nail change.
+Step 1565, HIGH/LOW nail change.
+Step 1570, HIGH/LOW nail change, set AVGE=1.
+Step 1571, HIGH/LOW nail change.
+Step 1572, HIGH/LOW nail change.
+Step 1573, HIGH/LOW nail change.
+Step 1574, HIGH/LOW nail change.
+Step 1576, HIGH/LOW nail change.
+Step 1577, HIGH/LOW nail change.
+Step 1579, HIGH/LOW nail change.
+Step 1580, HIGH/LOW nail change.
+Step 1581, HIGH/LOW nail change.
+Step 1582, HIGH/LOW nail change.
+Step 1583, HIGH/LOW nail change.
+Step 1584, HIGH/LOW nail change.
+Step 1585, HIGH/LOW nail change.
+Step 1587, HIGH/LOW nail change.
+Step 1588, HIGH/LOW nail change.
+Step 1589, HIGH/LOW nail change.
+Step 1590, HIGH/LOW nail change.
+Step 1592, HIGH/LOW nail change.
+Step 1596, HIGH/LOW nail change.
+Step 1597, HIGH/LOW nail change.
+Step 1598, HIGH/LOW nail change.
+Step 1601, HIGH/LOW nail change.
+Step 1602, HIGH/LOW nail change.
+Step 1603, HIGH/LOW nail change.
+Step 1604, HIGH/LOW nail change.
+Step 1605, HIGH/LOW nail change.
+Step 1606, HIGH/LOW nail change.
+Step 1607, HIGH/LOW nail change.
+Step 1610, HIGH/LOW nail change.
+Step 1611, HIGH/LOW nail change.
+Step 1612, HIGH/LOW nail change.
+Step 1616, HIGH/LOW nail change.
+Step 1617, HIGH/LOW nail change.
+Step 1619, HIGH/LOW nail change.
+Step 1620, HIGH/LOW nail change.
+Step 1621, HIGH/LOW nail change.
+Step 1623, HIGH/LOW nail change.
+Step 1624, HIGH/LOW nail change.
+Step 1625, HIGH/LOW nail change.
+Step 1629, HIGH/LOW nail change.
+Step 1631, HIGH/LOW nail change.
+Step 1632, HIGH/LOW nail change.
+Step 1634, HIGH/LOW nail change.
+Step 1635, HIGH/LOW nail change.
+Step 1637, HIGH/LOW nail change.
+Step 1638, HIGH/LOW nail change.
+Step 1639, HIGH/LOW nail change.
+Step 1641, HIGH/LOW nail change.
+Step 1643, HIGH/LOW nail change.
+Step 1644, HIGH/LOW nail change.
+Step 1645, HIGH/LOW nail change.
+Step 1646, HIGH/LOW nail change.
+Step 1647, HIGH/LOW nail change.
+Step 1650, HIGH/LOW nail change.
+Step 1651, HIGH/LOW nail change.
+Step 1656, HIGH/LOW nail change.
+Step 1657, HIGH/LOW nail change.
+Step 1659, HIGH/LOW nail change.
+Step 1660, HIGH/LOW nail change.
+Step 1662, HIGH/LOW nail change.
+Step 1663, HIGH/LOW nail change.
+Step 1664, HIGH/LOW nail change.
+Step 1665, HIGH/LOW nail change.
+Step 1668, HIGH/LOW nail change.
+Step 1669, HIGH/LOW nail change.
+Step 1670, HIGH/LOW nail change.
+Step 1671, HIGH/LOW nail change.
+Step 1673, HIGH/LOW nail change.
+Step 1675, HIGH/LOW nail change.
+Step 1676, HIGH/LOW nail change.
+Step 1677, HIGH/LOW nail change.
+Step 1678, HIGH/LOW nail change.
+Step 1679, HIGH/LOW nail change.
+Step 1680, HIGH/LOW nail change.
+Step 1681, HIGH/LOW nail change.
+Step 1682, HIGH/LOW nail change.
+Step 1685, HIGH/LOW nail change.
+Step 1688, HIGH/LOW nail change.
+Step 1691, HIGH/LOW nail change.
+Step 1718(Cap), HIGH/LOW nail change.
+Step 1719(Cap), HIGH/LOW nail change.
+Step 1722(Cap), HIGH/LOW nail change.
+Step 1723(Cap), HIGH/LOW nail change.
+Step 1724(Cap), HIGH/LOW nail change.
+Step 1725(Cap), HIGH/LOW nail change.
+Step 1728(Cap), HIGH/LOW nail change.
+Step 1730(Cap), HIGH/LOW nail change.
+Step 1731(Cap), HIGH/LOW nail change.
+Step 1735(Cap), HIGH/LOW nail change.
+Step 1737(Cap), HIGH/LOW nail change.
+Step 1738(Cap), HIGH/LOW nail change.
+Step 1739(Cap), HIGH/LOW nail change.
+Step 1740(Cap), HIGH/LOW nail change.
+Step 1741(Cap), HIGH/LOW nail change.
+Step 1742(Cap), HIGH/LOW nail change.
+Step 1743(Cap), HIGH/LOW nail change.
+Step 1744(Cap), HIGH/LOW nail change.
+Step 1745(Cap), HIGH/LOW nail change.
+Step 1746(Cap), HIGH/LOW nail change.
+Step 1747(Cap), HIGH/LOW nail change.
+Step 1748(Cap), HIGH/LOW nail change.
+Step 1749(Cap), HIGH/LOW nail change.
+Step 1751(Cap), HIGH/LOW nail change.
+Step 1754(Cap), HIGH/LOW nail change.
+Step 1756(Cap), HIGH/LOW nail change.
+Step 1757(Cap), HIGH/LOW nail change.
+Step 1758(Cap), HIGH/LOW nail change.
+Step 1759(Cap), HIGH/LOW nail change.
+Step 1760(Cap), HIGH/LOW nail change.
+Step 1761(Cap), HIGH/LOW nail change.
+Step 1762(Cap), HIGH/LOW nail change.
+Step 1763(Cap), HIGH/LOW nail change.
+Step 1764(Cap), HIGH/LOW nail change.
+Step 1765(Cap), HIGH/LOW nail change.
+Step 1766(Cap), HIGH/LOW nail change.
+Step 1775(Cap), HIGH/LOW nail change.
+Step 1776(Cap), HIGH/LOW nail change.
+Step 1777(Cap), HIGH/LOW nail change.
+Step 1778(Cap), HIGH/LOW nail change.
+Step 1779(Cap), HIGH/LOW nail change.
+Step 1780(Cap), HIGH/LOW nail change.
+Step 1781(Cap), HIGH/LOW nail change.
+Step 1782(Cap), HIGH/LOW nail change.
+Step 1783(Cap), HIGH/LOW nail change.
+Step 1784(Cap), HIGH/LOW nail change.
+Step 1785(Cap), HIGH/LOW nail change.
+Step 1786(Cap), HIGH/LOW nail change.
+Step 1787(Cap), HIGH/LOW nail change.
+Step 1820(Cap), HIGH/LOW nail change.
+Step 1821(Cap), HIGH/LOW nail change.
+Step 1822(Cap), HIGH/LOW nail change.
+Step 1823(Cap), HIGH/LOW nail change.
+Step 1824(Cap), HIGH/LOW nail change.
+Step 1825(Cap), HIGH/LOW nail change.
+Step 1826(Cap), HIGH/LOW nail change.
+Step 1827(Cap), HIGH/LOW nail change.
+Step 1828(Cap), HIGH/LOW nail change.
+Step 1829(Cap), HIGH/LOW nail change.
+Step 1830(Cap), HIGH/LOW nail change.
+Step 1831(Cap), HIGH/LOW nail change.
+Step 1832(Cap), HIGH/LOW nail change.
+Step 1833(Cap), HIGH/LOW nail change.
+Step 1837(Cap), HIGH/LOW nail change.
+Step 1838(Cap), HIGH/LOW nail change.
+Step 1839(Cap), HIGH/LOW nail change.
+Step 1840(Cap), HIGH/LOW nail change.
+Step 1841(Cap), HIGH/LOW nail change.
+Step 1842(Cap), HIGH/LOW nail change.
+Step 1843(Cap), HIGH/LOW nail change.
+Step 1844(Cap), HIGH/LOW nail change.
+Step 1845(Cap), HIGH/LOW nail change.
+Step 1846(Cap), HIGH/LOW nail change.
+Step 1847(Cap), HIGH/LOW nail change.
+Step 1851(Cap), HIGH/LOW nail change.
+Step 1852(Cap), HIGH/LOW nail change.
+Step 1855(Cap), HIGH/LOW nail change.
+Step 1856(Cap), HIGH/LOW nail change.
+Step 1857(Cap), HIGH/LOW nail change.
+Step 1858(Cap), HIGH/LOW nail change.
+Step 1859(Cap), HIGH/LOW nail change.
+Step 1860(Cap), HIGH/LOW nail change.
+Step 1862(Cap), HIGH/LOW nail change.
+Step 1863(Cap), HIGH/LOW nail change.
+Step 1864(Cap), HIGH/LOW nail change.
+Step 1865(Cap), HIGH/LOW nail change.
+Step 1866(Cap), HIGH/LOW nail change.
+Step 1867(Cap), HIGH/LOW nail change.
+Step 1868(Cap), HIGH/LOW nail change.
+Step 1869(Cap), HIGH/LOW nail change.
+Step 1871(Cap), HIGH/LOW nail change.
+Step 1872(Cap), HIGH/LOW nail change.
+Step 1873(Cap), HIGH/LOW nail change.
+Step 1874(Cap), HIGH/LOW nail change.
+Step 1875(Cap), HIGH/LOW nail change.
+Step 1876(Cap), HIGH/LOW nail change.
+Step 1877(Cap), HIGH/LOW nail change.
+Step 1878(Cap), HIGH/LOW nail change.
+Step 1879(Cap), HIGH/LOW nail change.
+Step 1880(Cap), HIGH/LOW nail change.
+Step 1881(Cap), HIGH/LOW nail change.
+Step 1883(Cap), HIGH/LOW nail change.
+Step 1884(Cap), HIGH/LOW nail change.
+Step 1885(Cap), HIGH/LOW nail change.
+Step 1886(Cap), HIGH/LOW nail change.
+Step 1887(Cap), HIGH/LOW nail change.
+Step 1888(Cap), HIGH/LOW nail change.
+Step 1889(Cap), HIGH/LOW nail change.
+Step 1890(Cap), HIGH/LOW nail change.
+Step 1891(Cap), HIGH/LOW nail change.
+Step 1892(Cap), HIGH/LOW nail change.
+Step 1893(Cap), HIGH/LOW nail change.
+Step 1894(Cap), HIGH/LOW nail change.
+Step 1895(Cap), HIGH/LOW nail change.
+Step 1896(Cap), HIGH/LOW nail change.
+Step 1897(Cap), HIGH/LOW nail change.
+Step 1898(Cap), HIGH/LOW nail change.
+Step 1899(Cap), HIGH/LOW nail change.
+Step 1900(Cap), HIGH/LOW nail change.
+Step 1901(Cap), HIGH/LOW nail change.
+Step 1902(Cap), HIGH/LOW nail change.
+Step 1903(Cap), HIGH/LOW nail change.
+Step 1904(Cap), HIGH/LOW nail change.
+Step 1905(Cap), HIGH/LOW nail change.
+Step 1906(Cap), HIGH/LOW nail change.
+Step 1907(Cap), HIGH/LOW nail change.
+Step 1908(Cap), HIGH/LOW nail change.
+Step 1909(Cap), HIGH/LOW nail change.
+Step 1910(Cap), HIGH/LOW nail change.
+Step 1911(Cap), HIGH/LOW nail change.
+Step 1912(Cap), HIGH/LOW nail change.
+Step 1913(Cap), HIGH/LOW nail change.
+Step 1914(Cap), HIGH/LOW nail change.
+Step 1915(Cap), HIGH/LOW nail change.
+Step 1917(Cap), HIGH/LOW nail change.
+Step 1918(Cap), HIGH/LOW nail change.
+Step 1919(Cap), HIGH/LOW nail change.
+Step 1920(Cap), HIGH/LOW nail change.
+Step 1921(Cap), HIGH/LOW nail change.
+Step 1922(Cap), HIGH/LOW nail change.
+Step 1923(Cap), HIGH/LOW nail change.
+Step 1924(Cap), HIGH/LOW nail change.
+Step 1925(Cap), HIGH/LOW nail change.
+Step 1926(Cap), HIGH/LOW nail change.
+Step 1927(Cap), HIGH/LOW nail change.
+Step 1928(Cap), HIGH/LOW nail change.
+Step 1929(Cap), HIGH/LOW nail change.
+Step 1930(Cap), HIGH/LOW nail change.
+Step 1931(Cap), HIGH/LOW nail change.
+Step 1932(Cap), HIGH/LOW nail change.
+Step 1933(Cap), HIGH/LOW nail change.
+Step 1934(Cap), HIGH/LOW nail change.
+Step 1935(Cap), HIGH/LOW nail change.
+Step 1936(Cap), HIGH/LOW nail change.
+Step 1937(Cap), HIGH/LOW nail change.
+Step 1938(Cap), HIGH/LOW nail change.
+Step 1939(Cap), HIGH/LOW nail change.
+Step 1940(Cap), HIGH/LOW nail change.
+Step 1941(Cap), HIGH/LOW nail change.
+Step 1942(Cap), HIGH/LOW nail change.
+Step 1943(Cap), HIGH/LOW nail change.
+Step 1944(Cap), HIGH/LOW nail change.
+Step 1945(Cap), HIGH/LOW nail change.
+Step 1946(Cap), HIGH/LOW nail change.
+Step 1947(Cap), HIGH/LOW nail change.
+Step 1948(Cap), HIGH/LOW nail change.
+Step 1949(Cap), HIGH/LOW nail change.
+Step 1950(Cap), HIGH/LOW nail change.
+Step 1951(Cap), HIGH/LOW nail change.
+Step 1952(Cap), HIGH/LOW nail change.
+Step 1953(Cap), HIGH/LOW nail change.
+Step 1986(Cap), HIGH/LOW nail change.
+Step 1987(Cap), HIGH/LOW nail change.
+Step 1988(Cap), HIGH/LOW nail change.
+Step 1989(Cap), HIGH/LOW nail change.
+Step 1990(Cap), HIGH/LOW nail change.
+Step 1991(Cap), HIGH/LOW nail change.
+Step 1992(Cap), HIGH/LOW nail change.
+Step 1993(Cap), HIGH/LOW nail change.
+Step 1994(Cap), HIGH/LOW nail change.
+Step 1995(Cap), HIGH/LOW nail change.
+Step 1996(Cap), HIGH/LOW nail change.
+Step 1997(Cap), HIGH/LOW nail change.
+Step 1998(Cap), HIGH/LOW nail change.
+Step 1999(Cap), HIGH/LOW nail change.
+Step 2000(Cap), HIGH/LOW nail change.
+Step 2013(Cap), HIGH/LOW nail change.
+Step 2014(Cap), HIGH/LOW nail change.
+Step 2015(Cap), HIGH/LOW nail change.
+Step 2016(Cap), HIGH/LOW nail change.
+Step 2017(Cap), HIGH/LOW nail change.
+Step 2018(Cap), HIGH/LOW nail change.
+Step 2020(Cap), HIGH/LOW nail change.
+Step 2021(Cap), HIGH/LOW nail change.
+Step 2022(Cap), HIGH/LOW nail change.
+Step 2023(Cap), HIGH/LOW nail change.
+Step 2024(Cap), HIGH/LOW nail change.
+Step 2025(Cap), HIGH/LOW nail change.
+Step 2026(Cap), HIGH/LOW nail change.
+Step 2027(Cap), HIGH/LOW nail change.
+Step 2028(Cap), HIGH/LOW nail change.
+Step 2029(Cap), HIGH/LOW nail change.
+Step 2031(Cap), HIGH/LOW nail change.
+Step 2032(Cap), HIGH/LOW nail change.
+Step 2034(Cap), HIGH/LOW nail change.
+Step 2035(Cap), HIGH/LOW nail change.
+Step 2036(Cap), HIGH/LOW nail change.
+Step 2037(Cap), HIGH/LOW nail change.
+Step 2038(Cap), HIGH/LOW nail change.
+Step 2039(Cap), HIGH/LOW nail change.
+Step 2040(Cap), HIGH/LOW nail change.
+Step 2041(Cap), HIGH/LOW nail change.
+Step 2042(Cap), HIGH/LOW nail change.
+Step 2043(Cap), HIGH/LOW nail change.
+Step 2044(Cap), HIGH/LOW nail change.
+Step 2045(Cap), HIGH/LOW nail change.
+Step 2046(Cap), HIGH/LOW nail change.
+Step 2047(Cap), HIGH/LOW nail change.
+Step 2049(Cap), HIGH/LOW nail change.
+Step 2050(Cap), HIGH/LOW nail change.
+Step 2051(Cap), HIGH/LOW nail change.
+Step 2052(Cap), HIGH/LOW nail change.
+Step 2053(Cap), HIGH/LOW nail change.
+Step 2054(Cap), HIGH/LOW nail change.
+Step 2055(Cap), HIGH/LOW nail change.
+Step 2056(Cap), HIGH/LOW nail change.
+Step 2057(Cap), HIGH/LOW nail change.
+Step 2058(Cap), HIGH/LOW nail change.
+Step 2059(Cap), HIGH/LOW nail change.
+Step 2060(Cap), HIGH/LOW nail change.
+Step 2061(Cap), HIGH/LOW nail change.
+Step 2062(Cap), HIGH/LOW nail change.
+Step 2063(Cap), HIGH/LOW nail change.
+Step 2064(Cap), HIGH/LOW nail change.
+Step 2065(Cap), HIGH/LOW nail change.
+Step 2066(Cap), HIGH/LOW nail change.
+Step 2067(Cap), HIGH/LOW nail change.
+Step 2068(Cap), HIGH/LOW nail change.
+Step 2069(Cap), HIGH/LOW nail change.
+Step 2070(Cap), HIGH/LOW nail change.
+Step 2071(Cap), HIGH/LOW nail change.
+Step 2072(Cap), HIGH/LOW nail change.
+Step 2073(Cap), HIGH/LOW nail change.
+Step 2074(Cap), HIGH/LOW nail change.
+Step 2075(Cap), HIGH/LOW nail change.
+Step 2076(Cap), HIGH/LOW nail change.
+Step 2077(Cap), HIGH/LOW nail change.
+Step 2078(Cap), HIGH/LOW nail change.
+Step 2079(Cap), HIGH/LOW nail change.
+Step 2080(Cap), HIGH/LOW nail change.
+Step 2081(Cap), HIGH/LOW nail change.
+Step 2082(Cap), HIGH/LOW nail change.
+Step 2083(Cap), HIGH/LOW nail change.
+Step 2084(Cap), HIGH/LOW nail change.
+Step 2085(Cap), HIGH/LOW nail change.
+Step 2089(Cap), HIGH/LOW nail change.
+Step 2090(Cap), HIGH/LOW nail change.
+Step 2091(Cap), HIGH/LOW nail change.
+Step 2092(Cap), HIGH/LOW nail change.
+Step 2093(Cap), HIGH/LOW nail change.
+Step 2094(Cap), HIGH/LOW nail change.
+Step 2095(Cap), HIGH/LOW nail change.
+Step 2096(Cap), HIGH/LOW nail change.
+Step 2097(Cap), HIGH/LOW nail change.
+Step 2098(Cap), HIGH/LOW nail change.
+Step 2099(Cap), HIGH/LOW nail change.
+Step 2100(Cap), HIGH/LOW nail change.
+Step 2101(Cap), HIGH/LOW nail change.
+Step 2102(Cap), HIGH/LOW nail change.
+Step 2103(Cap), HIGH/LOW nail change.
+Step 2104(Cap), HIGH/LOW nail change.
+Step 2105(Cap), HIGH/LOW nail change.
+Step 2106(Cap), HIGH/LOW nail change.
+Step 2107(Cap), HIGH/LOW nail change.
+Step 2108(Cap), HIGH/LOW nail change.
+Step 2109(Cap), HIGH/LOW nail change.
+Step 2110(Cap), HIGH/LOW nail change.
+Step 2111(Cap), HIGH/LOW nail change.
+Step 2112(Cap), HIGH/LOW nail change.
+Step 2113(Cap), HIGH/LOW nail change.
+Step 2114(Cap), HIGH/LOW nail change.
+Step 2115(Cap), HIGH/LOW nail change.
+Step 2116(Cap), HIGH/LOW nail change.
+Step 2117(Cap), HIGH/LOW nail change.
+Step 2118(Cap), HIGH/LOW nail change.
+Step 2119(Cap), HIGH/LOW nail change.
+Step 2120(Cap), HIGH/LOW nail change.
+Step 2121(Cap), HIGH/LOW nail change.
+Step 2122(Cap), HIGH/LOW nail change.
+Step 2123(Cap), HIGH/LOW nail change.
+Step 2124(Cap), HIGH/LOW nail change.
+Step 2125(Cap), HIGH/LOW nail change.
+Step 2126(Cap), HIGH/LOW nail change.
+Step 2127(Cap), HIGH/LOW nail change.
+Step 2128(Cap), HIGH/LOW nail change.
+Step 2129(Cap), HIGH/LOW nail change.
+Step 2130(Cap), HIGH/LOW nail change.
+Step 2131(Cap), HIGH/LOW nail change.
+Step 2132(Cap), HIGH/LOW nail change.
+Step 2133(Cap), HIGH/LOW nail change.
+Step 2134(Cap), HIGH/LOW nail change.
+Step 2135(Cap), HIGH/LOW nail change.
+Step 2136(Cap), HIGH/LOW nail change.
+Step 2137(Cap), HIGH/LOW nail change.
+Step 2138(Cap), HIGH/LOW nail change.
+Step 2139(Cap), HIGH/LOW nail change.
+Step 2140(Cap), HIGH/LOW nail change.
+Step 2141(Cap), HIGH/LOW nail change.
+Step 2142(Cap), HIGH/LOW nail change.
+Step 2143(Cap), HIGH/LOW nail change.
+Step 2144(Cap), HIGH/LOW nail change.
+Step 2145(Cap), HIGH/LOW nail change.
+Step 2146(Cap), HIGH/LOW nail change.
+Step 2147(Cap), HIGH/LOW nail change.
+Step 2148(Cap), HIGH/LOW nail change.
+Step 2149(Cap), HIGH/LOW nail change.
+Step 2150(Cap), HIGH/LOW nail change.
+Step 2151(Cap), HIGH/LOW nail change.
+Step 2152(Cap), HIGH/LOW nail change.
+Step 2153(Cap), HIGH/LOW nail change.
+Step 2154(Cap), HIGH/LOW nail change.
+Step 2155(Cap), HIGH/LOW nail change.
+Step 2156(Cap), HIGH/LOW nail change.
+Step 2157(Cap), HIGH/LOW nail change.
+Step 2158(Cap), HIGH/LOW nail change.
+Step 2160(Cap), HIGH/LOW nail change.
+Step 2161(Cap), HIGH/LOW nail change.
+Step 2162(Cap), HIGH/LOW nail change.
+Step 2163(Cap), HIGH/LOW nail change.
+Step 2164(Cap), HIGH/LOW nail change.
+Step 2166(Cap), HIGH/LOW nail change.
+Step 2167(Cap), HIGH/LOW nail change.
+Step 2168(Cap), HIGH/LOW nail change.
+Step 2169(Cap), HIGH/LOW nail change.
+Step 2170(Cap), HIGH/LOW nail change.
+Step 2171(Cap), HIGH/LOW nail change.
+Step 2172(Cap), HIGH/LOW nail change.
+Step 2173(Cap), HIGH/LOW nail change.
+Step 2174(Cap), HIGH/LOW nail change.
+Step 2175(Cap), HIGH/LOW nail change.
+Step 2176(Cap), HIGH/LOW nail change.
+Step 2177(Cap), HIGH/LOW nail change.
+Step 2178(Cap), HIGH/LOW nail change.
+Step 2179(Cap), HIGH/LOW nail change.
+Step 2180(Cap), HIGH/LOW nail change.
+Step 2181(Cap), HIGH/LOW nail change.
+Step 2182(Cap), HIGH/LOW nail change.
+Step 2183(Cap), HIGH/LOW nail change.
+Step 2184(Cap), HIGH/LOW nail change.
+Step 2185(Cap), HIGH/LOW nail change.
+Step 2186(Cap), HIGH/LOW nail change.
+Step 2187(Cap), HIGH/LOW nail change.
+Step 2188(Cap), HIGH/LOW nail change.
+Step 2189(Cap), HIGH/LOW nail change.
+Step 2190(Cap), HIGH/LOW nail change.
+Step 2191(Cap), HIGH/LOW nail change.
+Step 2192(Cap), HIGH/LOW nail change.
+Step 2193(Cap), HIGH/LOW nail change.
+Step 2194(Cap), HIGH/LOW nail change.
+Step 2195(Cap), HIGH/LOW nail change.
+Step 2196(Cap), HIGH/LOW nail change.
+Step 2197(Cap), HIGH/LOW nail change.
+Step 2198(Cap), HIGH/LOW nail change.
+Step 2199(Cap), HIGH/LOW nail change.
+Step 2200(Cap), HIGH/LOW nail change.
+Step 2201(Cap), HIGH/LOW nail change.
+Step 2202(Cap), HIGH/LOW nail change.
+Step 2203(Cap), HIGH/LOW nail change.
+Step 2204(Cap), HIGH/LOW nail change.
+Step 2205(Cap), HIGH/LOW nail change.
+Step 2206(Cap), HIGH/LOW nail change.
+Step 2207(Cap), HIGH/LOW nail change.
+Step 2208(Cap), HIGH/LOW nail change.
+Step 2209(Cap), HIGH/LOW nail change.
+Step 2210(Cap), HIGH/LOW nail change.
+Step 2211(Cap), HIGH/LOW nail change.
+Step 2212(Cap), HIGH/LOW nail change.
+Step 2213(Cap), HIGH/LOW nail change.
+Step 2214(Cap), HIGH/LOW nail change.
+Step 2215(Cap), HIGH/LOW nail change.
+Step 2216(Cap), HIGH/LOW nail change.
+Step 2217(Cap), HIGH/LOW nail change.
+Step 2218(Cap), HIGH/LOW nail change.
+Step 2219(Cap), HIGH/LOW nail change.
+Step 2220(Cap), HIGH/LOW nail change.
+Step 2221(Cap), HIGH/LOW nail change.
+Step 2222(Cap), HIGH/LOW nail change.
+Step 2223(Cap), HIGH/LOW nail change.
+Step 2224(Cap), HIGH/LOW nail change.
+Step 2225(Cap), HIGH/LOW nail change.
+Step 2226(Cap), HIGH/LOW nail change.
+Step 2227(Cap), HIGH/LOW nail change.
+Step 2228(Cap), HIGH/LOW nail change.
+Step 2229(Cap), HIGH/LOW nail change.
+Step 2230(Cap), HIGH/LOW nail change.
+Step 2231(Cap), HIGH/LOW nail change.
+Step 2232(Cap), HIGH/LOW nail change.
+Step 2233(Cap), HIGH/LOW nail change.
+Step 2234(Cap), HIGH/LOW nail change.
+Step 2235(Cap), HIGH/LOW nail change.
+Step 2236(Cap), HIGH/LOW nail change.
+Step 2237(Cap), HIGH/LOW nail change.
+Step 2238(Cap), HIGH/LOW nail change.
+Step 2239(Cap), HIGH/LOW nail change.
+Step 2240(Cap), HIGH/LOW nail change.
+Step 2241(Cap), HIGH/LOW nail change.
+Step 2242(Cap), HIGH/LOW nail change.
+Step 2243(Cap), HIGH/LOW nail change.
+Step 2244(Cap), HIGH/LOW nail change.
+Step 2245(Cap), HIGH/LOW nail change.
+Step 2246(Cap), HIGH/LOW nail change.
+Step 2247(Cap), HIGH/LOW nail change.
+Step 2248(Cap), HIGH/LOW nail change.
+Step 2249(Cap), HIGH/LOW nail change.
+Step 2250(Cap), HIGH/LOW nail change.
+Step 2251(Cap), HIGH/LOW nail change.
+Step 2252(Cap), HIGH/LOW nail change.
+Step 2253(Cap), HIGH/LOW nail change.
+Step 2254(Cap), HIGH/LOW nail change.
+Step 2255(Cap), HIGH/LOW nail change.
+Step 2256(Cap), HIGH/LOW nail change.
+Step 2257(Cap), HIGH/LOW nail change.
+Step 2258(Cap), HIGH/LOW nail change.
+Step 2259(Cap), HIGH/LOW nail change.
+Step 2260(Cap), HIGH/LOW nail change.
+Step 2261(Cap), HIGH/LOW nail change.
+Step 2262(Cap), HIGH/LOW nail change.
+Step 2263(Cap), HIGH/LOW nail change.
+Step 2264(Cap), HIGH/LOW nail change.
+Step 2265(Cap), HIGH/LOW nail change.
+Step 2266(Cap), HIGH/LOW nail change.
+Step 2267(Cap), HIGH/LOW nail change.
+Step 2268(Cap), HIGH/LOW nail change.
+Step 2269(Cap), HIGH/LOW nail change.
+Step 2270(Cap), HIGH/LOW nail change.
+Step 2271(Cap), HIGH/LOW nail change.
+Step 2272(Cap), HIGH/LOW nail change.
+Step 2273(Cap), HIGH/LOW nail change.
+Step 2274(Cap), HIGH/LOW nail change.
+Step 2275(Cap), HIGH/LOW nail change.
+Step 2276(Cap), HIGH/LOW nail change.
+Step 2277(Cap), HIGH/LOW nail change.
+Step 2280(Cap), HIGH/LOW nail change.
+Step 2281(Cap), HIGH/LOW nail change.
+Step 2282(Cap), HIGH/LOW nail change.
+Step 2283(Cap), HIGH/LOW nail change.
+Step 2284(Cap), HIGH/LOW nail change.
+Step 2285(Cap), HIGH/LOW nail change.
+Step 2286(Cap), HIGH/LOW nail change.
+Step 2287(Cap), HIGH/LOW nail change.
+Step 2288(Cap), HIGH/LOW nail change.
+Step 2289(Cap), HIGH/LOW nail change.
+Step 2290(Cap), HIGH/LOW nail change.
+Step 2291(Cap), HIGH/LOW nail change.
+Step 2292(Cap), HIGH/LOW nail change.
+Step 2293(Cap), HIGH/LOW nail change.
+Step 2294(Cap), change MODE=13.
+Step 2295(Cap), change MODE=13.
+Step 2296(Cap), change MODE=13.
+Step 2297(Cap), change MODE=13.
+Step 2298(Cap), change MODE=13.
+Step 2299(Cap), change MODE=13.
+Step 2300(Cap), change MODE=13.
+Step 2301(Cap), change MODE=13.
+Step 2302(Cap), change MODE=13.
+Step 2303(Cap), change MODE=13.
+Step 2304(Cap), change MODE=13.
+Step 2305(Cap), change MODE=13.
+Step 2306(Cap), change MODE=13.
+Step 2307(Cap), change MODE=13.
+Step 2308(Cap), change MODE=13.
+Step 2309(Cap), change MODE=13.
+Step 2310(Cap), change MODE=13.
+Step 2311(Cap), change MODE=13.
+Step 2312(Cap), change MODE=13.
+Step 2313(Cap), change MODE=13.
+Step 2314(Cap), change MODE=13.
+Step 2315(Cap), change MODE=13.
+Step 2316(Cap), change MODE=13.
+Step 2317(Cap), change MODE=13.
+Step 2318(Cap), change MODE=13.
+Step 2319(Cap), change MODE=13.
+Step 2320(Cap), change MODE=13.
+Step 2321(Cap), change MODE=13.
+Step 2322(Cap), change MODE=13.
+Step 2323(Cap), change MODE=13.
+Step 2324(Cap), change MODE=13.
+Step 2325(Cap), change MODE=13.
+Step 2326(Cap), change MODE=13.
+Step 2327(Cap), change MODE=13.
+Step 2328(Cap), change MODE=13.
+Step 2329(Cap), change MODE=13.
+Step 2330(Cap), change MODE=13.
+Step 2331(Cap), change MODE=13.
+Step 2332(Cap), change MODE=13.
+Step 2333(Cap), change MODE=13.
+Step 2334(Cap), change MODE=13.
+Step 2335(Cap), change MODE=13.
+Step 2336(Cap), change MODE=13.
+Step 2337(Cap), change MODE=13.
+Step 2338(Cap), change MODE=13.
+Step 2339(Cap), change MODE=13.
+Step 2340(Cap), change MODE=13.
+Step 2341(Cap), change MODE=13.
+Step 2342(Cap), change MODE=13.
+Step 2343(Cap), change MODE=13.
+Step 2344(Cap), HIGH/LOW nail change.
+Step 2345(Cap), HIGH/LOW nail change.
+Step 2346(Cap), HIGH/LOW nail change.
+Step 2347(Cap), HIGH/LOW nail change.
+Step 2349(Cap), HIGH/LOW nail change.
+Step 2350(Cap), HIGH/LOW nail change.
+Step 2351(Cap), HIGH/LOW nail change.
+Step 2352(Cap), HIGH/LOW nail change.
+Step 2353(Cap), HIGH/LOW nail change.
+Step 2354(Cap), HIGH/LOW nail change.
+Step 2355(Cap), HIGH/LOW nail change.
+Step 2356(Cap), HIGH/LOW nail change.
+Step 2357(Cap), HIGH/LOW nail change.
+Step 2358(Cap), HIGH/LOW nail change.
+Step 2359(Cap), HIGH/LOW nail change.
+Step 2360(Cap), HIGH/LOW nail change.
+Step 2361(Cap), HIGH/LOW nail change.
+Step 2363(Cap), HIGH/LOW nail change.
+Step 2365(Cap), HIGH/LOW nail change.
+Step 2366(Cap), HIGH/LOW nail change.
+Step 2367(Cap), HIGH/LOW nail change.
+Step 2368(Cap), HIGH/LOW nail change.
+Step 2369(Cap), HIGH/LOW nail change.
+Step 2370(Cap), HIGH/LOW nail change.
+Step 2371(Cap), HIGH/LOW nail change.
+Step 2372(Cap), HIGH/LOW nail change.
+Step 2373(Cap), HIGH/LOW nail change.
+Step 2374(Cap), HIGH/LOW nail change.
+Step 2375(Cap), HIGH/LOW nail change.
+Step 2376(Cap), HIGH/LOW nail change.
+Step 2377(Cap), HIGH/LOW nail change.
+Step 2378(Cap), HIGH/LOW nail change.
+Step 2379(Cap), HIGH/LOW nail change.
+Step 2380(Cap), HIGH/LOW nail change.
+Step 2381(Cap), HIGH/LOW nail change.
+Step 2382(Cap), HIGH/LOW nail change.
+Step 2383(Cap), HIGH/LOW nail change.
+Step 2384(Cap), HIGH/LOW nail change.
+Step 2385(Cap), HIGH/LOW nail change.
+Step 2386(Cap), HIGH/LOW nail change.
+Step 2389(Cap), HIGH/LOW nail change.
+Step 2390(Cap), HIGH/LOW nail change.
+Step 2392(Cap), HIGH/LOW nail change.
+Step 2394(Cap), HIGH/LOW nail change.
+Step 2396(Cap), HIGH/LOW nail change.
+Step 2398(Cap), HIGH/LOW nail change.
+Step 2401(Cap), HIGH/LOW nail change.
+Step 2402(Cap), HIGH/LOW nail change.
+Step 2404(Cap), HIGH/LOW nail change.
+Step 2405(Cap), HIGH/LOW nail change.
+Step 2406(Cap), HIGH/LOW nail change.
+Step 2407(Cap), HIGH/LOW nail change.
+Step 2408(Cap), HIGH/LOW nail change.
+Step 2409(Cap), HIGH/LOW nail change.
+Step 2410(Cap), HIGH/LOW nail change.
+Step 2411(Cap), HIGH/LOW nail change.
+Step 2412(Cap), HIGH/LOW nail change.
+Step 2413(Cap), HIGH/LOW nail change.
+Step 2414(Cap), HIGH/LOW nail change.
+Step 2415(Cap), HIGH/LOW nail change.
+Step 2416(Cap), HIGH/LOW nail change.
+Step 2765, change MODE=2.
+Step 2845(Cap), HIGH/LOW nail change.
