@@ -1,0 +1,16 @@
+			
+常规			
+	电脑:	戴尔 Inspiron M4040 笔记本电脑	
+	操作系统:	Windows 7 旗舰版 ( 64位 / SP1 / DirectX 11 )	
+			
+硬件			
+	处理器:	AMD E-350 双核	
+	主板:	戴尔 0727FF ( AMD 未知(1510h) )	
+	内存:	4 GB ( 金士顿 DDR3 1333MHz / 南亚易胜 DDR3 1333MHz )	
+	主硬盘:	西数 WDC WD3200BPVT-75JJ5T0 ( 320 GB )	
+	显卡:	AMD Radeon HD 6310 Graphics ( 384 MB / 戴尔 )	
+	显示器:	LG LGD02E9 ( 14 英寸 )	
+	光驱:	索尼-NEC Optiarc DVD+-RW AD-7747H DVD刻录机	
+	声卡:	ATI 未知(1314h)	
+	网卡:	瑞昱 RTL8105E Family PCI-E FE NIC / 戴尔	
+--------鲁大师: V2.75--------			
